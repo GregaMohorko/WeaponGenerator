@@ -1,0 +1,6559 @@
+[1] Melee weapon
+	Type: PoleWeapon
+	Length: 2.52322340618038
+	Attack: 1
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 300
+[2] Bagh naka
+	Type: Dagger
+	Length: 0.350118758669178
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[3] Brass knuckles
+	Type: Dagger
+	Length: 0.406915045299993
+	Attack: 10
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1500
+[4] Cestus
+	Type: Bow
+	Length: 12.0579928355562
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[5] Deer Horn Knives
+	Type: Dagger
+	Length: 0.351633934002199
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[6] Katar (dagger)
+	Type: Dagger
+	Length: 0.251969589387052
+	Attack: 11
+	Defense: 10
+	Wield type: OneHanded
+	Price: 2100
+[7] Korean fighting fan
+	Type: Sword
+	Length: 0.702766591311789
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[8] Pata (sword)
+	Type: Sword
+	Length: 0.851187362033495
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[9] Japanese war fan
+	Type: Sword
+	Length: 0.765522314824873
+	Attack: 13
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2000
+[10] Wind and fire wheels
+	Type: Dagger
+	Length: 0.280258869300717
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[11] Emeici
+	Type: Dagger
+	Length: 0.290650897794706
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[12] Baselard
+	Type: Dagger
+	Length: 0.453403884174025
+	Attack: 9
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1100
+[13] Cinquedea
+	Type: Sword
+	Length: 0.97429341961364
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[14] Khanjali
+	Type: Dagger
+	Length: 0.325361781555862
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[15] Misericorde (weapon)
+	Type: Dagger
+	Length: 0.274762672150863
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[16] Small sword
+	Type: Sword
+	Length: 0.875
+	Attack: 8
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1000
+[17] Swiss dagger
+	Type: Dagger
+	Length: 0.376425592054811
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[18] Tant%C5%8D#Tant.C5.8D Koshirae
+	Type: Sword
+	Length: 0.553036760097852
+	Attack: 15
+	Defense: 13
+	Wield type: OneHanded
+	Price: 2800
+[19] Barong (knife)
+	Type: Sword
+	Length: 0.637267237593079
+	Attack: 9
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1200
+[20] Wakizashi
+	Type: Sword
+	Length: 0.51936841989838
+	Attack: 3
+	Defense: 3
+	Wield type: OneHanded
+	Price: 600
+[21] Pinuti
+	Type: Sword
+	Length: 0.90455900943119
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[22] Dha (sword)
+	Type: Sword
+	Length: 0.994527603962704
+	Attack: 8
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1000
+[23] Dussack
+	Type: Sword
+	Length: 0.778457299237352
+	Attack: 9
+	Defense: 0
+	Wield type: OneHanded
+	Price: 900
+[24] Falchion
+	Type: Sword
+	Length: 0.740833333333333
+	Attack: 11
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1100
+[25] Korean sword
+	Type: Sword
+	Length: 1.4442
+	Attack: 33
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 4000
+[26] Karabela
+	Type: Dagger
+	Length: 0.32784884368435
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[27] Khopesh
+	Type: Axe
+	Length: 0.570022752075467
+	Attack: 6
+	Defense: 1
+	Wield type: OneHanded
+	Price: 700
+[28] Kukri
+	Type: Dagger
+	Length: 0.274738811550075
+	Attack: 50
+	Defense: 10
+	Wield type: OneHanded
+	Price: 6000
+[29] Liuyedao
+	Type: Sword
+	Length: 0.611565332678876
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[30] Mameluke sword
+	Type: Sword
+	Length: 0.572302152902029
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[31] Messer (weapon)
+	Type: Dagger
+	Length: 0.5918308338578
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[32] Nimcha
+	Type: Sword
+	Length: 0.602712341166433
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[33] Scimitar
+	Type: Sword
+	Length: 0.646062226568378
+	Attack: 21
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2500
+[34] Shashka
+	Type: Sword
+	Length: 0.670312820780237
+	Attack: 14
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2000
+[35] Szabla
+	Type: Sword
+	Length: 0.515
+	Attack: 21
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2800
+[36] Talwar
+	Type: Sword
+	Length: 0.546059751904597
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[37] Yanmaodao
+	Type: Sword
+	Length: 0.81150750807091
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[38] Basket-hilted sword
+	Type: Sword
+	Length: 0.964280375262853
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[39] Firangi (sword)
+	Type: Sword
+	Length: 0.96
+	Attack: 14
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1600
+[40] Hwandudaedo
+	Type: Sword
+	Length: 0.80187877491204
+	Attack: 11
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1100
+[41] Ida (sword)
+	Type: Sword
+	Length: 0.522187730307778
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[42] Jian
+	Type: Sword
+	Length: 1.2
+	Attack: 26
+	Defense: 10
+	Wield type: TwoHanded
+	Price: 3600
+[43] Kaskara
+	Type: Sword
+	Length: 0.543206909924376
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[44] Khanda (sword)
+	Type: Sword
+	Length: 0.527138598741562
+	Attack: 11
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1300
+[45] Moplah (sword)
+	Type: Sword
+	Length: 0.686974668263912
+	Attack: 7
+	Defense: 2
+	Wield type: OneHanded
+	Price: 900
+[46] Saingeom
+	Type: Sword
+	Length: 1.4442
+	Attack: 33
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 4000
+[47] Seax
+	Type: Axe
+	Length: 0.807323973536177
+	Attack: 7
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1000
+[48] Takoba
+	Type: Sword
+	Length: 0.603628943489692
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[49] D%C5%8Dtanuki
+	Type: Sword
+	Length: 0.935527135355178
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[50] Miao dao
+	Type: Dagger
+	Length: 0.601290487382231
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[51] Nandao
+	Type: Sword
+	Length: 0.859874673588143
+	Attack: 4
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 400
+[52] Panabas
+	Type: Sword
+	Length: 1.2192
+	Attack: 13
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1500
+[53] Ssangsudo
+	Type: Sword
+	Length: 1.4442
+	Attack: 33
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 4000
+[54] Uchigatana
+	Type: Sword
+	Length: 0.570279863230083
+	Attack: 13
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1400
+[55] Changdao
+	Type: Sword
+	Length: 1.33957759516294
+	Attack: 7
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 700
+[56] Claymore
+	Type: Sword
+	Length: 1.26018922252589
+	Attack: 6
+	Defense: 11
+	Wield type: TwoHanded
+	Price: 1700
+[57] Executioner%27s sword
+	Type: Sword
+	Length: 0.644217288421568
+	Attack: 5
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 800
+[58] Nagamaki
+	Type: Sword
+	Length: 0.6096
+	Attack: 13
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1500
+[59] Wodao
+	Type: Sword
+	Length: 0.920231680814285
+	Attack: 6
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 800
+[60] Zanbat%C5%8D
+	Type: Sword
+	Length: 0.770524054658843
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[61] Zhanmadao
+	Type: Sword
+	Length: 0.984460016239649
+	Attack: 4
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 400
+[62] Aruval
+	Type: Sword
+	Length: 1.13954569778384
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[63] Falcata
+	Type: Sword
+	Length: 0.696720441894941
+	Attack: 8
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1100
+[64] Golok
+	Type: Sword
+	Length: 0.712267451552799
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[65] Harpe
+	Type: Sword
+	Length: 0.51002136385535
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[66] Pandat
+	Type: Sword
+	Length: 0.55
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[67] Yatagan
+	Type: Sword
+	Length: 0.56261716948944
+	Attack: 11
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1200
+[68] Hook sword
+	Type: Sword
+	Length: 0.544539829969658
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[69] Celurit
+	Type: Dagger
+	Length: 0.37190366926226
+	Attack: 6
+	Defense: 1
+	Wield type: OneHanded
+	Price: 700
+[70] Karambit
+	Type: Dagger
+	Length: 0.276711009338829
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[71] Kujang (weapon)
+	Type: Sword
+	Length: 0.591702535325523
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[72] Mandau (knife)
+	Type: Dagger
+	Length: 0.465818512936038
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[73] Punyal
+	Type: Dagger
+	Length: 0.259552461798094
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[74] Chicken sickles
+	Type: Sword
+	Length: 0.748475020867062
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[75] Crowbill
+	Type: PoleWeapon
+	Length: 1.85838026476949
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[76] Elephant goad
+	Type: Axe
+	Length: 0.890204917821197
+	Attack: 11
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1200
+[77] Horseman%27s pick
+	Type: Axe
+	Length: 0.535242043684815
+	Attack: 2
+	Defense: 4
+	Wield type: OneHanded
+	Price: 600
+[78] Kama (weapon)
+	Type: Sword
+	Length: 0.595300260277139
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[79] Dane Axe
+	Type: Axe
+	Length: 1.3696
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[80] Doloire
+	Type: Axe
+	Length: 1.5
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[81] Masakari
+	Type: Axe
+	Length: 0.510013044350787
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[82] Nzappa zap
+	Type: Axe
+	Length: 0.848844788199684
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[83] Ono (weapon)
+	Type: Axe
+	Length: 0.527337613993947
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[84] Sagaris
+	Type: Axe
+	Length: 0.709644274185246
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[85] Shepherd%27s axe
+	Type: Axe
+	Length: 1
+	Attack: 10
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1200
+[86] Pole weapon#Sparth
+	Type: Axe
+	Length: 1.02589816135629
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[87] Aklys
+	Type: Ranged
+	Length: 9.50292569329167
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[88] Sjambok
+	Type: Sword
+	Length: 1.5
+	Attack: 15
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1900
+[89] Ch%C3%BAi
+	Type: Ranged
+	Length: 7.12044446362203
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[90] Club (weapon)
+	Type: Club
+	Length: 0.800930065941499
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[91] B%C5%8D
+	Type: PoleWeapon
+	Length: 1.67700140582258
+	Attack: 16
+	Defense: 5
+	Wield type: TwoHanded
+	Price: 2100
+[92] Bokken
+	Type: Sword
+	Length: 0.575876324472891
+	Attack: 10
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1000
+[93] Hanb%C5%8D
+	Type: PoleWeapon
+	Length: 2.38746904134167
+	Attack: 3
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 300
+[94] Jutte
+	Type: Sword
+	Length: 0.999742888845384
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[95] Knobkierrie
+	Type: Ranged
+	Length: 7.09900027937209
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[96] Macana
+	Type: Sword
+	Length: 0.851376110152982
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[97] Mere (weapon)
+	Type: Club
+	Length: 0.92808486448046
+	Attack: 22
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2900
+[98] Morning star (weapon)
+	Type: Club
+	Length: 0.763429986901316
+	Attack: 13
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 1600
+[99] Patu
+	Type: Club
+	Length: 0.83218828650759
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[100] Rungu (weapon)
+	Type: Ranged
+	Length: 6.61602210328729
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[101] Sai (weapon)
+	Type: Dagger
+	Length: 0.265383561498198
+	Attack: 10
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1400
+[102] Shillelagh (club)
+	Type: Club
+	Length: 0.849339310009656
+	Attack: 7
+	Defense: 9
+	Wield type: OneHanded
+	Price: 1600
+[103] Tambo (weapon)
+	Type: PoleWeapon
+	Length: 1.79772016955433
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[104] Tonfa
+	Type: Bow
+	Length: 19.0851802281501
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[105] Yawara
+	Type: Dagger
+	Length: 0.3696308027113
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[106] Yubi-bo
+	Type: Dagger
+	Length: 0.48882395016906
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[107] Pole weapon
+	Type: Axe
+	Length: 1.29939957139986
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[108] Eku
+	Type: Dagger
+	Length: 0.486858290031952
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[109] J%C5%8D
+	Type: PoleWeapon
+	Length: 1.78581639881517
+	Attack: 7
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 700
+[110] Quarterstaff
+	Type: PoleWeapon
+	Length: 3.1242
+	Attack: 18
+	Defense: 8
+	Wield type: TwoHanded
+	Price: 2600
+[111] Taiaha
+	Type: PoleWeapon
+	Length: 1.8288
+	Attack: 15
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 1900
+[112] Ahlspiess
+	Type: PoleWeapon
+	Length: 1.8144
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[113] Atgeir
+	Type: PoleWeapon
+	Length: 2.6270608429923
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[114] Brandistock
+	Type: PoleWeapon
+	Length: 1.524
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[115] Dangpa
+	Type: PoleWeapon
+	Length: 3.25357205968051
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[116] Menaulion
+	Type: PoleWeapon
+	Length: 3.6
+	Attack: 2
+	Defense: 5
+	Wield type: TwoHanded
+	Price: 700
+[117] Military fork
+	Type: PoleWeapon
+	Length: 2.06115634346435
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[118] Ranseur
+	Type: PoleWeapon
+	Length: 1.7493626595239
+	Attack: 6
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 700
+[119] Swordstaff
+	Type: PoleWeapon
+	Length: 2.90900926730084
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[120] Trident
+	Type: PoleWeapon
+	Length: 1.6051134586358
+	Attack: 14
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 1500
+[121] Trishula
+	Type: PoleWeapon
+	Length: 2.2328320046574
+	Attack: 5
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 500
+[122] Arbir
+	Type: Sword
+	Length: 1.5
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[123] Bec de corbin
+	Type: PoleWeapon
+	Length: 2.25052853452532
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[124] Bill (weapon)
+	Type: PoleWeapon
+	Length: 2.286
+	Attack: 12
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 1300
+[125] Bisento
+	Type: PoleWeapon
+	Length: 2.38611750066565
+	Attack: 1
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 300
+[126] Fauchard
+	Type: PoleWeapon
+	Length: 2.67868220046101
+	Attack: 11
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 2000
+[127] Glaive
+	Type: PoleWeapon
+	Length: 1.68263934142079
+	Attack: 3
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 300
+[128] Guan dao
+	Type: PoleWeapon
+	Length: 1.65
+	Attack: 15
+	Defense: 11
+	Wield type: TwoHanded
+	Price: 2600
+[129] Guisarme
+	Type: PoleWeapon
+	Length: 2.87568556465008
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[130] Halberd
+	Type: Axe
+	Length: 1.18925312845467
+	Attack: 10
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1200
+[131] Ji (halberd)
+	Type: PoleWeapon
+	Length: 2.95402798659821
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[132] Jedwart stave
+	Type: Axe
+	Length: 0.9113373856113
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[133] Lochaber axe
+	Type: Axe
+	Length: 1.45102089524782
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[134] Man catcher
+	Type: PoleWeapon
+	Length: 2.96022253504965
+	Attack: 7
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 1000
+[135] Monk%27s spade
+	Type: PoleWeapon
+	Length: 2.2461504485673
+	Attack: 6
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 900
+[136] Pollaxe
+	Type: Axe
+	Length: 0.744064449679136
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[137] Pudao
+	Type: Sword
+	Length: 0.843521990740449
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[138] Rhomphaia
+	Type: PoleWeapon
+	Length: 2.22097927551762
+	Attack: 8
+	Defense: 6
+	Wield type: TwoHanded
+	Price: 1400
+[139] Sasumata
+	Type: PoleWeapon
+	Length: 1.51065648417485
+	Attack: 9
+	Defense: 6
+	Wield type: TwoHanded
+	Price: 1500
+[140] Tepoztopilli
+	Type: PoleWeapon
+	Length: 2.26702481008462
+	Attack: 4
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 400
+[141] Tsukub%C5%8D
+	Type: PoleWeapon
+	Length: 2
+	Attack: 4
+	Defense: 5
+	Wield type: TwoHanded
+	Price: 900
+[142] Voulge
+	Type: PoleWeapon
+	Length: 2.74886020307842
+	Attack: 3
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 400
+[143] War scythe
+	Type: PoleWeapon
+	Length: 2.8735736337833
+	Attack: 30
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 3700
+[144] Lucerne hammer
+	Type: PoleWeapon
+	Length: 2.5783133844744
+	Attack: 1
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 200
+[145] Spiculum
+	Type: Ranged
+	Length: 6.85902733675159
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[146] Verutum
+	Type: Ranged
+	Length: 9.96060203759028
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[147] Throwing stick
+	Type: Ranged
+	Length: 10.5575403294328
+	Attack: 15
+	Defense: 5
+	Wield type: OneHanded
+	Price: 2000
+[148] Shaken (weapon)
+	Type: Ranged
+	Length: 6.09583182777084
+	Attack: 20
+	Defense: 0
+	Wield type: OneHanded
+	Price: 2000
+[149] Shuriken
+	Type: Ranged
+	Length: 5.49689713655826
+	Attack: 20
+	Defense: 0
+	Wield type: OneHanded
+	Price: 2000
+[150] Kunai
+	Type: Dagger
+	Length: 0.455122351392695
+	Attack: 7
+	Defense: 2
+	Wield type: OneHanded
+	Price: 900
+[151] Throwing knife
+	Type: Dagger
+	Length: 0.276090790646193
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[152] Swiss arrow
+	Type: Ranged
+	Length: 8.55020436390778
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[153] Hunga munga
+	Type: Ranged
+	Length: 8.36357498698103
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[154] Hurlbat
+	Type: Axe
+	Length: 0.716406046047996
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[155] Bolas
+	Type: Ranged
+	Length: 8.71948354119411
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[156] Cable-backed bow
+	Type: Bow
+	Length: 19.8551087592985
+	Attack: 6
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 700
+[157] Gungdo
+	Type: Bow
+	Length: 26.5230651602722
+	Attack: 16
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 2000
+[158] Arbalest
+	Type: Bow
+	Length: 29.2941013860023
+	Attack: 2
+	Defense: 5
+	Wield type: TwoHanded
+	Price: 700
+[159] Sk%C3%A5ne lockbow
+	Type: Bow
+	Length: 19.3124538610282
+	Attack: 4
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 500
+[160] Blowgun
+	Type: Ranged
+	Length: 6.01199931977875
+	Attack: 49
+	Defense: 5
+	Wield type: OneHanded
+	Price: 5400
+[161] Fukiya
+	Type: Ranged
+	Length: 6.32712364258576
+	Attack: 13
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1300
+[162] Huochong
+	Type: Dagger
+	Length: 0.435267960040489
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[163] Chain whip
+	Type: Club
+	Length: 0.771308506033993
+	Attack: 24
+	Defense: 9
+	Wield type: OneHanded
+	Price: 3300
+[164] Urumi
+	Type: Sword
+	Length: 1.4478
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[165] Nunchaku
+	Type: Club
+	Length: 0.70304035544537
+	Attack: 52
+	Defense: 11
+	Wield type: OneHanded
+	Price: 6300
+[166] Tabak-Toyok
+	Type: Club
+	Length: 0.841513994541724
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[167] Chain weapon
+	Type: Club
+	Length: 0.864663314476918
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[168] Chigiriki
+	Type: Club
+	Length: 0.687902670906811
+	Attack: 10
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1200
+[169] Flying claws
+	Type: Ranged
+	Length: 12
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[170] Kusarigama
+	Type: Club
+	Length: 0.50323811615968
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[171] Kyoketsu-shoge
+	Type: Club
+	Length: 1.25252076040605
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[172] Kusari-fundo
+	Type: Club
+	Length: 0.75
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[173] Meteor hammer
+	Type: Club
+	Length: 1.22893108414902
+	Attack: 19
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2200
+[174] Rope dart
+	Type: Ranged
+	Length: 5.5533512172072
+	Attack: 9
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1000
+[175] Slungshot
+	Type: Ranged
+	Length: 6.30194589323455
+	Attack: 16
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1900
+[176] Slingshot
+	Type: Ranged
+	Length: 8.54945707765848
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[177] Surujin
+	Type: Ranged
+	Length: 8.72134786272484
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[178] Chemical weapons in World War I
+	Type: Siege
+	Length: 66.4424541599315
+	Attack: 176
+	Defense: 28
+	Wield type: OneHanded
+	Price: 20400
+[179] Ancillary weapon
+	Type: Dagger
+	Length: 0.385382690064322
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[180] Biological agent
+	Type: Axe
+	Length: 0.6252630085802
+	Attack: 19
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2500
+[181] Conventional weapon
+	Type: Ranged
+	Length: 6.10231960942145
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[182] Cyberweapon
+	Type: Dagger
+	Length: 0.424567542935055
+	Attack: 11
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1200
+[183] Explosive weapon
+	Type: Ranged
+	Length: 7.48217131126773
+	Attack: 4
+	Defense: 3
+	Wield type: OneHanded
+	Price: 700
+[184] Weapon of mass destruction
+	Type: Ranged
+	Length: 11.9442214523182
+	Attack: 62
+	Defense: 8
+	Wield type: OneHanded
+	Price: 7000
+[185] Offensive weapon
+	Type: Dagger
+	Length: 0.3428946587224
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[186] Space weapon
+	Type: Ranged
+	Length: 8.43204353164511
+	Attack: 10
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1400
+[187] Beretta M1935
+	Type: Dagger
+	Length: 0.325317538844104
+	Attack: 17
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2300
+[188] Glisenti Model 1910
+	Type: Dagger
+	Length: 0.453190136795486
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[189] SRCM Mod. 35
+	Type: Ranged
+	Length: 13.3423269206389
+	Attack: 9
+	Defense: 0
+	Wield type: OneHanded
+	Price: 900
+[190] OTO Mod. 35
+	Type: Ranged
+	Length: 6.48318496834635
+	Attack: 8
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1100
+[191] Breda Mod. 35
+	Type: Ranged
+	Length: 10
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[192] Bomba a mano L anticarro
+	Type: Ranged
+	Length: 6.94931339563304
+	Attack: 9
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1000
+[193] Passaglia Grenade
+	Type: Dagger
+	Length: 0.539536270564206
+	Attack: 11
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1200
+[194] Lanciafiamme Modello 35
+	Type: Ranged
+	Length: 14.9398540705162
+	Attack: 9
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1000
+[195] Brixia Model 35
+	Type: Dagger
+	Length: 0.461281779087745
+	Attack: 4
+	Defense: 2
+	Wield type: OneHanded
+	Price: 600
+[196] 14 Modello 35
+	Type: Dagger
+	Length: 0.63967969018951
+	Attack: 2
+	Defense: 3
+	Wield type: OneHanded
+	Price: 500
+[197] 18 modello 34
+	Type: Siege
+	Length: 43.894964884452
+	Attack: 3
+	Defense: 3
+	Wield type: OneHanded
+	Price: 600
+[198] 14
+	Type: Dagger
+	Length: 0.569563246597332
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[199] Panzerfaust
+	Type: Ranged
+	Length: 13.7083979713304
+	Attack: 15
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1800
+[200] Sikin Panjang
+	Type: Sword
+	Length: 0.885139016613895
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[201] Alamang
+	Type: Sword
+	Length: 0.64497822832548
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[202] Langgai Tinggang
+	Type: Sword
+	Length: 0.754817522482396
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[203] Luwuk (sword)
+	Type: Sword
+	Length: 0.85
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[204] Niabor
+	Type: Sword
+	Length: 0.517923800283076
+	Attack: 4
+	Defense: 2
+	Wield type: OneHanded
+	Price: 600
+[205] Piso Halasan
+	Type: Sword
+	Length: 0.821239419198241
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[206] Sikin Panyang
+	Type: Sword
+	Length: 0.808157532852216
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[207] Kalis
+	Type: Sword
+	Length: 0.552515916783603
+	Attack: 18
+	Defense: 5
+	Wield type: OneHanded
+	Price: 2300
+[208] Badik
+	Type: Dagger
+	Length: 0.428531211185516
+	Attack: 15
+	Defense: 21
+	Wield type: OneHanded
+	Price: 3600
+[209] Palitai
+	Type: Dagger
+	Length: 0.410379314753404
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[210] Peurawot
+	Type: Dagger
+	Length: 0.427454790532335
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[211] Rencong
+	Type: Dagger
+	Length: 0.460993495984466
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[212] Sewar
+	Type: Dagger
+	Length: 0.250037364312465
+	Attack: 7
+	Defense: 1
+	Wield type: OneHanded
+	Price: 800
+[213] Blakas
+	Type: Sword
+	Length: 0.964222712425619
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[214] Golok Rembau
+	Type: Dagger
+	Length: 0.443778481424683
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[215] Jimpul
+	Type: Dagger
+	Length: 0.300591486995384
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[216] Kabeala
+	Type: Dagger
+	Length: 0.433746214692363
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[217] Parang (knife)
+	Type: Sword
+	Length: 0.715921297071465
+	Attack: 6
+	Defense: 1
+	Wield type: OneHanded
+	Price: 700
+[218] Parang Chandong
+	Type: Dagger
+	Length: 0.307784991715003
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[219] Parang Latok
+	Type: Sword
+	Length: 0.717405561924635
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[220] Wedung
+	Type: Dagger
+	Length: 0.453388893373026
+	Attack: 6
+	Defense: 1
+	Wield type: OneHanded
+	Price: 700
+[221] Bambu runcing
+	Type: PoleWeapon
+	Length: 2.84076914044133
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[222] Salukat
+	Type: Dagger
+	Length: 0.263665783458234
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[223] Tolor (quiver)
+	Type: Ranged
+	Length: 6.20673428345785
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[224] Bronze Age sword
+	Type: Sword
+	Length: 0.796660081854397
+	Attack: 27
+	Defense: 2
+	Wield type: OneHanded
+	Price: 2900
+[225] Swiss degen
+	Type: Dagger
+	Length: 0.253640651238915
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[226] Chinese swords
+	Type: Sword
+	Length: 0.8
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[227] Miaodao
+	Type: Dagger
+	Length: 0.608172408821142
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[228] Jedok geom
+	Type: Sword
+	Length: 0.992971331343507
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[229] Bonguk geom
+	Type: Sword
+	Length: 0.924165575031268
+	Attack: 8
+	Defense: 0
+	Wield type: OneHanded
+	Price: 800
+[230] Tant%C5%8D
+	Type: Sword
+	Length: 0.758535353354428
+	Attack: 15
+	Defense: 13
+	Wield type: OneHanded
+	Price: 2800
+[231] Kayamkulam vaal
+	Type: Sword
+	Length: 0.806367525973528
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[232] Kastane
+	Type: Sword
+	Length: 0.775975741341699
+	Attack: 12
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1500
+[233] Acinaces
+	Type: Dagger
+	Length: 0.376147645817207
+	Attack: 11
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1200
+[234] Billao
+	Type: Sword
+	Length: 0.715819214571183
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[235] Ida (Sword)
+	Type: Sword
+	Length: 0.501294989139445
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[236] Chinese sword
+	Type: Sword
+	Length: 0.8
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[237] Butterfly sword
+	Type: Sword
+	Length: 0.943710066584735
+	Attack: 12
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1600
+[238] Changdao (sword)
+	Type: Sword
+	Length: 1.12578715180316
+	Attack: 7
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 700
+[239] Taijijian
+	Type: Sword
+	Length: 0.870445486097804
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[240] Hachiwara
+	Type: Dagger
+	Length: 0.296154080329535
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[241] Shinai
+	Type: Sword
+	Length: 0.527895666671868
+	Attack: 29
+	Defense: 4
+	Wield type: OneHanded
+	Price: 3300
+[242] Buntot Pagi
+	Type: Dagger
+	Length: 0.470029799137278
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[243] Asi (Mahabharata)
+	Type: Sword
+	Length: 0.641906228448221
+	Attack: 24
+	Defense: 1
+	Wield type: OneHanded
+	Price: 2500
+[244] Hengdang
+	Type: Sword
+	Length: 0.828726895073767
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[245] Malappuram Kathi
+	Type: Dagger
+	Length: 0.261222861828852
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[246] Saif
+	Type: Sword
+	Length: 0.795725496623537
+	Attack: 21
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2500
+[247] Migration period sword
+	Type: Sword
+	Length: 0.984393281622042
+	Attack: 23
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2600
+[248] Broadsword
+	Type: Sword
+	Length: 0.834157963438964
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[249] Schiavona
+	Type: Sword
+	Length: 0.684095784409016
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[250] Mortuary sword
+	Type: Sword
+	Length: 0.807374376713938
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[251] Smallsword
+	Type: Sword
+	Length: 0.875
+	Attack: 8
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1000
+[252] Sgian-dubh
+	Type: Dagger
+	Length: 0.488944783568822
+	Attack: 20
+	Defense: 1
+	Wield type: OneHanded
+	Price: 2100
+[253] Fascine knife
+	Type: Sword
+	Length: 0.626492977666898
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[254] Basilisk (cannon)
+	Type: Siege
+	Length: 35.3321130552013
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[255] B%C3%A2ton %C3%A0 feu
+	Type: Siege
+	Length: 33.1894698474507
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[256] Meteor Hammer
+	Type: Club
+	Length: 1.16049373576441
+	Attack: 19
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2200
+[257] Guandao
+	Type: PoleWeapon
+	Length: 1.65
+	Attack: 15
+	Defense: 11
+	Wield type: TwoHanded
+	Price: 2600
+[258] Ji (polearm)
+	Type: PoleWeapon
+	Length: 2.19704611934584
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[259] Podao
+	Type: Sword
+	Length: 0.923916750319263
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[260] Chu%C3%AD (Chinese weapon)
+	Type: Ranged
+	Length: 8.57807449697427
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[261] Amenonuhoko
+	Type: PoleWeapon
+	Length: 1.57291439993908
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[262] Japanese sword polishing
+	Type: Sword
+	Length: 0.958157440627998
+	Attack: 27
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3700
+[263] Japanese swordsmithing
+	Type: Sword
+	Length: 0.510642497805246
+	Attack: 166
+	Defense: 71
+	Wield type: OneHanded
+	Price: 23700
+[264] Tameshigiri
+	Type: Sword
+	Length: 1.10489460155596
+	Attack: 8
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1300
+[265] Kabutowari
+	Type: Dagger
+	Length: 0.407593100754355
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[266] Kaiken (dagger)
+	Type: Dagger
+	Length: 0.314175170876167
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[267] Yoroid%C5%8Dshi
+	Type: Sword
+	Length: 0.598527069016605
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[268] Kamayari
+	Type: PoleWeapon
+	Length: 1.54317331059984
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[269] Torimono sand%C5%8Dgu
+	Type: PoleWeapon
+	Length: 2
+	Attack: 5
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 900
+[270] Abumi (stirrup)
+	Type: Dagger
+	Length: 0.289466919861486
+	Attack: 8
+	Defense: 14
+	Wield type: OneHanded
+	Price: 2200
+[271] Daish%C5%8D
+	Type: Sword
+	Length: 0.669691700334517
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[272] Kaginawa
+	Type: Siege
+	Length: 39.2127757026873
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[273] Kate-bukuro
+	Type: Dagger
+	Length: 0.481463861643087
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[274] Kubi bukuro
+	Type: Dagger
+	Length: 0.471923448132315
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[275] Yebira
+	Type: Dagger
+	Length: 0.487697911093802
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[276] Jitte
+	Type: Sword
+	Length: 0.997046943286921
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[277] Tanb%C5%8D
+	Type: PoleWeapon
+	Length: 1.87083940923719
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[278] Oyumi
+	Type: Bow
+	Length: 11.7534863351628
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[279] Ya (arrow)
+	Type: Sword
+	Length: 0.777345963650079
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[280] Metsubushi
+	Type: Ranged
+	Length: 7.64871558297831
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[281] Shobo
+	Type: Dagger
+	Length: 0.309098075870005
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[282] Suntetsu
+	Type: Ranged
+	Length: 5.04885843258764
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[283] Hata-jirushi
+	Type: PoleWeapon
+	Length: 2.47484379516674
+	Attack: 3
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 300
+[284] Horagai
+	Type: Dagger
+	Length: 0.406133400116178
+	Attack: 6
+	Defense: 0
+	Wield type: OneHanded
+	Price: 600
+[285] Kabura-ya (Japanese signal arrow)
+	Type: Dagger
+	Length: 0.336561669519433
+	Attack: 10
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1000
+[286] Nobori
+	Type: PoleWeapon
+	Length: 1.5967470996998
+	Attack: 4
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 400
+[287] Sashimono
+	Type: PoleWeapon
+	Length: 2.05679086388871
+	Attack: 2
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 400
+[288] Uma-jirushi
+	Type: Club
+	Length: 0.946276007893624
+	Attack: 9
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1000
+[289] NR-40
+	Type: Dagger
+	Length: 0.316021187843765
+	Attack: 8
+	Defense: 0
+	Wield type: OneHanded
+	Price: 800
+[290] Nagant M1895
+	Type: Ranged
+	Length: 5.99725264869502
+	Attack: 38
+	Defense: 8
+	Wield type: OneHanded
+	Price: 4600
+[291] Model 1914 grenade
+	Type: Ranged
+	Length: 6.12186344392684
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[292] F1 grenade (Russia)
+	Type: Ranged
+	Length: 10.9180155587001
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[293] RG-41
+	Type: Axe
+	Length: 1.48347050812257
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[294] RG-42
+	Type: Ranged
+	Length: 10.7737823882018
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[295] RGD-33 grenade
+	Type: Ranged
+	Length: 10.8590261688731
+	Attack: 14
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1700
+[296] RPG-40
+	Type: Dagger
+	Length: 0.300741175911734
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[297] RPG-43
+	Type: Ranged
+	Length: 9.12288045469806
+	Attack: 10
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1300
+[298] RPG-6
+	Type: Ranged
+	Length: 10.8166566285382
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[299] TM-44 mine
+	Type: Dagger
+	Length: 0.711500532557955
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[300] TMD-44 and TMD-B mines
+	Type: Dagger
+	Length: 0.562436698382924
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[301] TM-35 mine
+	Type: Dagger
+	Length: 0.256777943347943
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[302] M1938 mortar
+	Type: Siege
+	Length: 36.5099913028581
+	Attack: 4
+	Defense: 3
+	Wield type: OneHanded
+	Price: 700
+[303] 107mm M1938 mortar
+	Type: Siege
+	Length: 50.4027310062213
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[304] PIAT
+	Type: PoleWeapon
+	Length: 3.6503749707017
+	Attack: 51
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 5800
+[305] M%C3%AAl%C3%A9e weapon
+	Type: PoleWeapon
+	Length: 2.44410474386257
+	Attack: 1
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 300
+[306] Polearm
+	Type: Axe
+	Length: 1.04990244938522
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[307] Model 1832 Foot Artillery Sword
+	Type: Sword
+	Length: 1.22116806112284
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[308] Koncerz
+	Type: Sword
+	Length: 1.43333333333333
+	Attack: 1
+	Defense: 4
+	Wield type: OneHanded
+	Price: 500
+[309] Broadswords
+	Type: Sword
+	Length: 0.863527480449307
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[310] Walloon sword
+	Type: Sword
+	Length: 0.50249374495004
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[311] Sinclair hilt#Sinclair Hilt
+	Type: Sword
+	Length: 0.629446034379977
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[312] Capsicum spray
+	Type: Axe
+	Length: 1.08302912469163
+	Attack: 55
+	Defense: 22
+	Wield type: OneHanded
+	Price: 7700
+[313] Bludgeon (weapon)
+	Type: Club
+	Length: 0.576115080190876
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[314] Crowbar (tool)
+	Type: Axe
+	Length: 0.883147772114327
+	Attack: 2
+	Defense: 3
+	Wield type: OneHanded
+	Price: 500
+[315] Jutte (weapon)
+	Type: Sword
+	Length: 0.967477148150782
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[316] Iwisa
+	Type: Ranged
+	Length: 8.05720598579254
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[317] Kubotan
+	Type: Club
+	Length: 0.852921606438664
+	Attack: 9
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1400
+[318] Slapjack (weapon)
+	Type: Club
+	Length: 0.699356868257447
+	Attack: 4
+	Defense: 3
+	Wield type: OneHanded
+	Price: 700
+[319] Totokia
+	Type: Club
+	Length: 0.645890640395643
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[320] Mingyi Swa
+	Type: Sword
+	Length: 0.837519158766381
+	Attack: 35
+	Defense: 7
+	Wield type: OneHanded
+	Price: 4200
+[321] Vajra
+	Type: Axe
+	Length: 0.572645568322691
+	Attack: 35
+	Defense: 1
+	Wield type: OneHanded
+	Price: 3600
+[322] Melee weapons
+	Type: PoleWeapon
+	Length: 1.88876774063742
+	Attack: 1
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 300
+[323] Enfield revolver
+	Type: Ranged
+	Length: 6.82074333858711
+	Attack: 13
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1300
+[324] Welrod
+	Type: Sword
+	Length: 0.966484693329076
+	Attack: 22
+	Defense: 0
+	Wield type: OneHanded
+	Price: 2200
+[325] No. 76 Special Incendiary Grenade
+	Type: Ranged
+	Length: 9.14665838663776
+	Attack: 10
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1400
+[326] No. 73 Grenade
+	Type: Ranged
+	Length: 9.66747495330287
+	Attack: 8
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1500
+[327] Sticky bomb
+	Type: Ranged
+	Length: 5.77890144464509
+	Attack: 51
+	Defense: 12
+	Wield type: OneHanded
+	Price: 6300
+[328] Hawkins grenade
+	Type: Ranged
+	Length: 13.0078500593118
+	Attack: 8
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1300
+[329] No 77 grenade
+	Type: Dagger
+	Length: 0.442774742232996
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[330] Flamethrower, Portable, No 2
+	Type: Ranged
+	Length: 13.5794427937732
+	Attack: 2
+	Defense: 3
+	Wield type: OneHanded
+	Price: 500
+[331] Lewes bomb
+	Type: Dagger
+	Length: 0.436956735182068
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[332] Fairbairn-Sykes Fighting Knife
+	Type: Dagger
+	Length: 0.292379448908558
+	Attack: 19
+	Defense: 9
+	Wield type: OneHanded
+	Price: 2800
+[333] Smatchet
+	Type: Dagger
+	Length: 0.270973736779286
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[334] Ordnance ML 3 inch Mortar
+	Type: Siege
+	Length: 40.67
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[335] Northover projector
+	Type: Axe
+	Length: 0.664673251642228
+	Attack: 12
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1900
+[336] Tallboy bomb
+	Type: Axe
+	Length: 1.15247256688423
+	Attack: 51
+	Defense: 17
+	Wield type: OneHanded
+	Price: 6800
+[337] Grand Slam bomb
+	Type: Dagger
+	Length: 0.375657835800973
+	Attack: 12
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1500
+[338] Battle of Changde
+	Type: Dagger
+	Length: 0.443998162841423
+	Attack: 16
+	Defense: 9
+	Wield type: OneHanded
+	Price: 2500
+[339] Operation Crossbow
+	Type: Bow
+	Length: 19
+	Attack: 24
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 2800
+[340] Buck and ball
+	Type: Ranged
+	Length: 14.9683122313434
+	Attack: 8
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1200
+[341] Jukjangchang
+	Type: PoleWeapon
+	Length: 4.2
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[342] Gichang
+	Type: PoleWeapon
+	Length: 1.82446882446505
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[343] Monk%27s Spade
+	Type: PoleWeapon
+	Length: 2.99269565683449
+	Attack: 6
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 900
+[344] M1917 revolver
+	Type: Dagger
+	Length: 0.311610444826824
+	Attack: 11
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1400
+[345] FP-45 Liberator
+	Type: Axe
+	Length: 1.31108097211042
+	Attack: 7
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1400
+[346] M7 grenade launcher
+	Type: Axe
+	Length: 1.32206947418026
+	Attack: 8
+	Defense: 0
+	Wield type: OneHanded
+	Price: 800
+[347] M2 flamethrower
+	Type: Ranged
+	Length: 14.4378226294358
+	Attack: 2
+	Defense: 4
+	Wield type: OneHanded
+	Price: 600
+[348] M1 Mortar
+	Type: Dagger
+	Length: 0.501298170653776
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[349] M2 Mortar
+	Type: Axe
+	Length: 1.01669614017787
+	Attack: 4
+	Defense: 2
+	Wield type: OneHanded
+	Price: 600
+[350] Fuller (weapon)
+	Type: Sword
+	Length: 0.536071264201808
+	Attack: 50
+	Defense: 2
+	Wield type: OneHanded
+	Price: 5200
+[351] Tang (tools)
+	Type: Sword
+	Length: 0.708653783755681
+	Attack: 23
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2900
+[352] Full tang
+	Type: Sword
+	Length: 0.515993359971788
+	Attack: 23
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2900
+[353] Dagger
+	Type: Dagger
+	Length: 0.385828820120463
+	Attack: 45
+	Defense: 10
+	Wield type: OneHanded
+	Price: 5500
+[354] Butterfly knife
+	Type: Dagger
+	Length: 0.29
+	Attack: 17
+	Defense: 5
+	Wield type: OneHanded
+	Price: 2200
+[355] Ballpoint pen knife
+	Type: Dagger
+	Length: 0.366490505224322
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[356] Boline
+	Type: Sword
+	Length: 0.902125483566022
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[357] Corvo (knife)
+	Type: Dagger
+	Length: 0.383198702537082
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[358] Drop point
+	Type: Dagger
+	Length: 0.372073252043721
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[359] Fairbairn%E2%80%93Sykes fighting knife
+	Type: Dagger
+	Length: 0.42517774839661
+	Attack: 19
+	Defense: 9
+	Wield type: OneHanded
+	Price: 2800
+[360] Gunong
+	Type: Dagger
+	Length: 0.497642074943353
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[361] Kirpan
+	Type: Dagger
+	Length: 0.665740776418588
+	Attack: 36
+	Defense: 1
+	Wield type: OneHanded
+	Price: 3700
+[362] Navaja
+	Type: Dagger
+	Length: 0.381857566364043
+	Attack: 45
+	Defense: 10
+	Wield type: OneHanded
+	Price: 5500
+[363] Puukko
+	Type: Dagger
+	Length: 0.296694390730324
+	Attack: 16
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2400
+[364] Resolza
+	Type: Dagger
+	Length: 0.375022080785139
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[365] Sami knife
+	Type: Dagger
+	Length: 0.368405718411508
+	Attack: 8
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1300
+[366] Shiv (weapon)
+	Type: Dagger
+	Length: 0.37455872172702
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[367] Strider SMF
+	Type: Dagger
+	Length: 0.417809288328425
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[368] Trench knife
+	Type: Dagger
+	Length: 0.252791600535992
+	Attack: 20
+	Defense: 9
+	Wield type: OneHanded
+	Price: 2900
+[369] Tumi
+	Type: Dagger
+	Length: 0.314290137292952
+	Attack: 11
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1100
+[370] Anelace
+	Type: Sword
+	Length: 0.544687136562861
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[371] BC-41
+	Type: Dagger
+	Length: 0.270540825566529
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[372] Bichuwa
+	Type: Dagger
+	Length: 0.3
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[373] Bollock dagger
+	Type: Dagger
+	Length: 0.455720914274324
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[374] Ear dagger
+	Type: Dagger
+	Length: 0.365337602615048
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[375] French Nail
+	Type: Dagger
+	Length: 0.358080738274418
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[376] Janbiya
+	Type: Dagger
+	Length: 0.458862136448204
+	Attack: 16
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1800
+[377] Kard (knife)
+	Type: Dagger
+	Length: 0.41
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[378] Khanjar
+	Type: Dagger
+	Length: 0.428045191652163
+	Attack: 8
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1200
+[379] Mark I trench knife
+	Type: Dagger
+	Length: 0.295600296717882
+	Attack: 14
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1700
+[380] Poignard
+	Type: Dagger
+	Length: 0.324162710725406
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[381] Rondel dagger
+	Type: Dagger
+	Length: 0.3
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[382] Seme (dagger)
+	Type: Dagger
+	Length: 0.357149134556367
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[383] Stiletto
+	Type: Dagger
+	Length: 0.380782298106133
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[384] United States Marine Raider stiletto
+	Type: Dagger
+	Length: 0.65375988634944
+	Attack: 14
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1900
+[385] RGD-33 Grenade
+	Type: Ranged
+	Length: 12.3829207091513
+	Attack: 14
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1700
+[386] M19 Mortar
+	Type: Dagger
+	Length: 0.731944176010761
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[387] M30 107 mm Mortar
+	Type: Axe
+	Length: 1.3979696984859
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[388] Ordnance ML 4.2 inch Mortar
+	Type: Siege
+	Length: 46.5338115564239
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[389] 82-PM-41
+	Type: Axe
+	Length: 1.36923636070883
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[390] 120-PM-43 mortar
+	Type: Dagger
+	Length: 0.642395822979694
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[391] M2 mortar
+	Type: Axe
+	Length: 1.11389184422507
+	Attack: 4
+	Defense: 2
+	Wield type: OneHanded
+	Price: 600
+[392] SIG Pro
+	Type: Dagger
+	Length: 0.562481634464339
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[393] Waster
+	Type: Sword
+	Length: 1.47178798679811
+	Attack: 82
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 9100
+[394] Colt Commander
+	Type: Sword
+	Length: 0.818361492742953
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[395] Smith %26 Wesson Model 27
+	Type: Dagger
+	Length: 0.398900484735566
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[396] High Standard HDM
+	Type: Dagger
+	Length: 0.407158877424504
+	Attack: 8
+	Defense: 0
+	Wield type: OneHanded
+	Price: 800
+[397] M21 Sniper Weapon System
+	Type: Dagger
+	Length: 0.328594208498762
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[398] M2 flamethrower#Variants of the M2
+	Type: Ranged
+	Length: 14.1983411876477
+	Attack: 2
+	Defense: 4
+	Wield type: OneHanded
+	Price: 600
+[399] M29 Mortar
+	Type: Axe
+	Length: 1.12428119295476
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[400] Mod%C3%A8le 1935 pistol
+	Type: Dagger
+	Length: 0.451721220836845
+	Attack: 13
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1500
+[401] RGD-5
+	Type: Ranged
+	Length: 13.581121132514
+	Attack: 9
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1100
+[402] RGD-33
+	Type: Ranged
+	Length: 12.6075378212182
+	Attack: 14
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1700
+[403] Model 39 grenade
+	Type: Ranged
+	Length: 8.74103446199607
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[404] M1 Bayonet
+	Type: Sword
+	Length: 0.975462395453575
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[405] M3 fighting knife
+	Type: Dagger
+	Length: 0.408243136554138
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[406] Punji stick
+	Type: Dagger
+	Length: 0.407600994178839
+	Attack: 7
+	Defense: 1
+	Wield type: OneHanded
+	Price: 800
+[407] POMZ
+	Type: Dagger
+	Length: 0.478954602372346
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[408] OZM
+	Type: Ranged
+	Length: 9.75614489044815
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[409] Aircraft ordnance
+	Type: Ranged
+	Length: 6.2462943565316
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[410] AN-22 bomb
+	Type: Dagger
+	Length: 0.488989289262793
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[411] AN-52 bomb
+	Type: Ranged
+	Length: 7.99831883422952
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[412] B61 nuclear bomb
+	Type: Axe
+	Length: 1.35393336734452
+	Attack: 47
+	Defense: 17
+	Wield type: OneHanded
+	Price: 6400
+[413] BLU-107 Durandal
+	Type: Sword
+	Length: 1.37689062714432
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[414] Blue Danube (nuclear weapon)
+	Type: Dagger
+	Length: 0.405462445065129
+	Attack: 22
+	Defense: 1
+	Wield type: OneHanded
+	Price: 2300
+[415] GBU-28
+	Type: Siege
+	Length: 30.9035991811676
+	Attack: 10
+	Defense: 6
+	Wield type: OneHanded
+	Price: 1600
+[416] HOSBO
+	Type: Dagger
+	Length: 0.514924117487354
+	Attack: 2
+	Defense: 3
+	Wield type: OneHanded
+	Price: 500
+[417] Matra Durandal
+	Type: Sword
+	Length: 1.08879090058095
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[418] Earthquake bomb
+	Type: Siege
+	Length: 34.3882188593914
+	Attack: 19
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2500
+[419] T-12 Cloudmaker
+	Type: Axe
+	Length: 1.09318948192205
+	Attack: 7
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1400
+[420] Butterfly bomb
+	Type: Dagger
+	Length: 0.649913390353282
+	Attack: 26
+	Defense: 2
+	Wield type: OneHanded
+	Price: 2800
+[421] Violet Club
+	Type: Club
+	Length: 1.19541908297474
+	Attack: 55
+	Defense: 10
+	Wield type: OneHanded
+	Price: 6500
+[422] Yellow Sun (nuclear weapon)
+	Type: Club
+	Length: 1.3193679304418
+	Attack: 39
+	Defense: 1
+	Wield type: OneHanded
+	Price: 4000
+[423] Falchions
+	Type: Sword
+	Length: 0.740833333333333
+	Attack: 11
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1100
+[424] Tang (weaponry)
+	Type: Sword
+	Length: 0.867575076114188
+	Attack: 23
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2900
+[425] Valari
+	Type: Ranged
+	Length: 9.64325797494653
+	Attack: 9
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1100
+[426] Projectile point
+	Type: Ranged
+	Length: 7.21726732431784
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[427] Clovis point
+	Type: Ranged
+	Length: 8.80619932143306
+	Attack: 17
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1800
+[428] Cumberland point
+	Type: PoleWeapon
+	Length: 1.97037686336337
+	Attack: 1
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 200
+[429] Folsom point
+	Type: Ranged
+	Length: 7.26325643819908
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[430] Lamoka projectile point
+	Type: Ranged
+	Length: 7.43280681661927
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[431] Migration Period sword
+	Type: Sword
+	Length: 0.59712407369964
+	Attack: 23
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2600
+[432] Gungnir
+	Type: PoleWeapon
+	Length: 1.72046036469772
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[433] Dotanuki
+	Type: Sword
+	Length: 0.796327357784066
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[434] Pepper spray
+	Type: Axe
+	Length: 1.29344307994165
+	Attack: 55
+	Defense: 22
+	Wield type: OneHanded
+	Price: 7700
+[435] Kpinga
+	Type: Ranged
+	Length: 9.52647941630635
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[436] Mambele (knives)
+	Type: Ranged
+	Length: 7.33088480184362
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[437] Knobkierie
+	Type: Ranged
+	Length: 8.87571639328996
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[438] Sudarshana Chakra
+	Type: Sword
+	Length: 1.34019482291313
+	Attack: 21
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2400
+[439] Flying guillotine
+	Type: Sword
+	Length: 0.786102200758691
+	Attack: 17
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2300
+[440] Weapons (album)
+	Type: Dagger
+	Length: 0.495516749795301
+	Attack: 21
+	Defense: 19
+	Wield type: OneHanded
+	Price: 4000
+[441] Weapons (film)
+	Type: Dagger
+	Length: 0.711545041278724
+	Attack: 11
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1100
+[442] Weaponry (radio program)
+	Type: Dagger
+	Length: 0.252989573638416
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[443] Weaponized virus
+	Type: Axe
+	Length: 1.42235520944109
+	Attack: 65
+	Defense: 12
+	Wield type: OneHanded
+	Price: 7700
+[444] Weapons of mass destruction
+	Type: Ranged
+	Length: 13.0604679547532
+	Attack: 62
+	Defense: 8
+	Wield type: OneHanded
+	Price: 7000
+[445] Biological weapons
+	Type: Axe
+	Length: 1.39125778218324
+	Attack: 65
+	Defense: 12
+	Wield type: OneHanded
+	Price: 7700
+[446] Small arms
+	Type: Ranged
+	Length: 14.8495976253644
+	Attack: 5
+	Defense: 4
+	Wield type: OneHanded
+	Price: 900
+[447] Autonomous weapon
+	Type: PoleWeapon
+	Length: 3.77987543064164
+	Attack: 22
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 2600
+[448] Antimatter weapon
+	Type: Dagger
+	Length: 0.62403632089218
+	Attack: 27
+	Defense: 2
+	Wield type: OneHanded
+	Price: 2900
+[449] Biological weapon
+	Type: Axe
+	Length: 0.660863096667856
+	Attack: 19
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2500
+[450] Magnetic weapon
+	Type: Ranged
+	Length: 7.00289509119601
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[451] Suicide weapon
+	Type: Sword
+	Length: 0.767952734496422
+	Attack: 11
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1600
+[452] Polearms
+	Type: Axe
+	Length: 1.22552685426805
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[453] Halberds
+	Type: Axe
+	Length: 1.4694240398097
+	Attack: 10
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1200
+[454] Martial arts weapons
+	Type: Dagger
+	Length: 0.413322318421361
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[455] Bladed weapon
+	Type: Dagger
+	Length: 0.412227206124099
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[456] Baston (weapon)
+	Type: Sword
+	Length: 0.708023358698945
+	Attack: 15
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1700
+[457] Balisong (knife)
+	Type: Dagger
+	Length: 0.29
+	Attack: 17
+	Defense: 5
+	Wield type: OneHanded
+	Price: 2200
+[458] Human Weapon
+	Type: Dagger
+	Length: 0.269372091404801
+	Attack: 1
+	Defense: 3
+	Wield type: OneHanded
+	Price: 400
+[459] Pinut%C3%AD
+	Type: Sword
+	Length: 0.893178706007627
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[460] Paltik
+	Type: Dagger
+	Length: 0.454888824352477
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[461] GA Personal Defense Weapon
+	Type: Axe
+	Length: 1.25373566302179
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[462] Zanbato
+	Type: Sword
+	Length: 0.93586634096497
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[463] Gro%C3%9Fes Messer
+	Type: Dagger
+	Length: 0.579204850284944
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[464] Pyeongon
+	Type: Club
+	Length: 0.731583560924783
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[465] Goedendag
+	Type: Club
+	Length: 0.732333807382888
+	Attack: 13
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1600
+[466] Spontoon
+	Type: PoleWeapon
+	Length: 3.3528
+	Attack: 3
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 500
+[467] Bident
+	Type: PoleWeapon
+	Length: 1.58251608586056
+	Attack: 12
+	Defense: 6
+	Wield type: TwoHanded
+	Price: 1800
+[468] Thermonuclear weapon
+	Type: Ranged
+	Length: 14.0449179029301
+	Attack: 139
+	Defense: 29
+	Wield type: OneHanded
+	Price: 16800
+[469] Self-propelled anti-aircraft weapon
+	Type: Ranged
+	Length: 10.0350452563889
+	Attack: 37
+	Defense: 8
+	Wield type: OneHanded
+	Price: 4500
+[470] Wikipedia:WikiProject Weaponry
+	Type: Axe
+	Length: 1.06049028740287
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[471] NBC weapons
+	Type: Ranged
+	Length: 14.2424268551368
+	Attack: 62
+	Defense: 8
+	Wield type: OneHanded
+	Price: 7000
+[472] Basket hilt
+	Type: Sword
+	Length: 0.577836409945896
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[473] Knuckleduster
+	Type: Dagger
+	Length: 0.365250172147178
+	Attack: 10
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1500
+[474] Linstock
+	Type: Siege
+	Length: 34.4826706030791
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[475] Stiletto blade
+	Type: Dagger
+	Length: 0.401344349911131
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[476] Ricasso
+	Type: Sword
+	Length: 0.696730877597225
+	Attack: 13
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 1700
+[477] Weighted-knuckle glove
+	Type: Sword
+	Length: 0.6700993993646
+	Attack: 14
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1800
+[478] Arival
+	Type: Sword
+	Length: 1.29384763342973
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[479] Mj%C3%B6lnir
+	Type: Sword
+	Length: 0.773063873533655
+	Attack: 48
+	Defense: 7
+	Wield type: OneHanded
+	Price: 5500
+[480] Tulwar
+	Type: Sword
+	Length: 0.513321134966482
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[481] Dusack
+	Type: Sword
+	Length: 0.976317293930947
+	Attack: 9
+	Defense: 0
+	Wield type: OneHanded
+	Price: 900
+[482] Fascine knives
+	Type: Sword
+	Length: 0.979366034958216
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[483] Pattern 1796 light cavalry sabre
+	Type: Sword
+	Length: 0.961768255551238
+	Attack: 23
+	Defense: 13
+	Wield type: OneHanded
+	Price: 3600
+[484] Pattern 1908 and 1912 cavalry swords
+	Type: Sword
+	Length: 0.632547290358947
+	Attack: 13
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1700
+[485] Anti-tank grenade
+	Type: Ranged
+	Length: 14.9592919111994
+	Attack: 20
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2800
+[486] Improvised explosive device
+	Type: Siege
+	Length: 51.3018067350154
+	Attack: 86
+	Defense: 21
+	Wield type: OneHanded
+	Price: 10700
+[487] Tandem warhead
+	Type: Ranged
+	Length: 9.75327947165504
+	Attack: 14
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1500
+[488] Jagdpanzer
+	Type: Ranged
+	Length: 8.71597219431585
+	Attack: 6
+	Defense: 0
+	Wield type: OneHanded
+	Price: 600
+[489] Stielgranate 41
+	Type: Axe
+	Length: 1.10406274842288
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[490] Hawkins mine
+	Type: Ranged
+	Length: 14.6968272094134
+	Attack: 8
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1300
+[491] Hafthohlladung
+	Type: Axe
+	Length: 1.46898866769345
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[492] Explosive belt
+	Type: Axe
+	Length: 1.24462458293169
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[493] Tandem-charge
+	Type: Ranged
+	Length: 6.94344297374759
+	Attack: 14
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1500
+[494] Bangalore torpedo
+	Type: Sword
+	Length: 1.49439293332137
+	Attack: 14
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1800
+[495] Anthrax
+	Type: Axe
+	Length: 1.43041717420817
+	Attack: 170
+	Defense: 33
+	Wield type: OneHanded
+	Price: 20300
+[496] VX (nerve agent)
+	Type: Sword
+	Length: 1.0323665377369
+	Attack: 80
+	Defense: 11
+	Wield type: OneHanded
+	Price: 9100
+[497] Federation of American Scientists
+	Type: Axe
+	Length: 1.05516715862563
+	Attack: 31
+	Defense: 2
+	Wield type: OneHanded
+	Price: 3300
+[498] Jiujiebian
+	Type: Club
+	Length: 0.764680381987561
+	Attack: 24
+	Defense: 9
+	Wield type: OneHanded
+	Price: 3300
+[499] Rokushakub%C5%8D
+	Type: PoleWeapon
+	Length: 2.32318675905614
+	Attack: 16
+	Defense: 5
+	Wield type: TwoHanded
+	Price: 2100
+[500] Self-propelled artillery
+	Type: Siege
+	Length: 34.5010701029101
+	Attack: 44
+	Defense: 20
+	Wield type: OneHanded
+	Price: 6400
+[501] Onager (siege weapon)
+	Type: Siege
+	Length: 38.9270716760899
+	Attack: 13
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1500
+[502] PzH 2000
+	Type: Siege
+	Length: 74.3382995945114
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[503] Panzerhaubitze 2000
+	Type: Siege
+	Length: 74.0727618448775
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[504] Barrage (artillery)
+	Type: Siege
+	Length: 59.9734094738836
+	Attack: 70
+	Defense: 23
+	Wield type: OneHanded
+	Price: 9300
+[505] Xyston
+	Type: PoleWeapon
+	Length: 4.25
+	Attack: 1
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 400
+[506] Kirpaan
+	Type: Dagger
+	Length: 0.661914978135338
+	Attack: 36
+	Defense: 1
+	Wield type: OneHanded
+	Price: 3700
+[507] Aldaspan
+	Type: Sword
+	Length: 0.583026686721959
+	Attack: 21
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2500
+[508] Shamshir-e Zomorrodnegar
+	Type: Sword
+	Length: 0.969789164825244
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[509] Sword of Osman
+	Type: Sword
+	Length: 0.57829932243484
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[510] Arabic swords
+	Type: Sword
+	Length: 0.922838154445793
+	Attack: 8
+	Defense: 8
+	Wield type: OneHanded
+	Price: 1600
+[511] Curved saber of San Mart%C3%ADn
+	Type: Sword
+	Length: 0.772693162212471
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[512] Seax of Beagnoth
+	Type: Axe
+	Length: 0.656545237478123
+	Attack: 30
+	Defense: 3
+	Wield type: OneHanded
+	Price: 3300
+[513] Sword of Stalingrad
+	Type: Sword
+	Length: 0.530606778818465
+	Attack: 12
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 1500
+[514] Nandaka
+	Type: Sword
+	Length: 0.93495948516529
+	Attack: 4
+	Defense: 2
+	Wield type: OneHanded
+	Price: 600
+[515] Almace
+	Type: Sword
+	Length: 0.525423047843121
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[516] Gram (mythology)
+	Type: Sword
+	Length: 0.916861412076681
+	Attack: 16
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2200
+[517] L%C3%A6vateinn
+	Type: Sword
+	Length: 0.930411613746738
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[518] Mistilteinn
+	Type: Sword
+	Length: 0.791967407470554
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[519] Murgleys
+	Type: Sword
+	Length: 0.803319050606023
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[520] Pr%C3%A9cieuse
+	Type: Sword
+	Length: 0.662480509449952
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[521] Skofnung
+	Type: Sword
+	Length: 0.705547426224475
+	Attack: 9
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1200
+[522] Thunderbolt
+	Type: Club
+	Length: 0.757005860217384
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[523] Mameluke Sword
+	Type: Sword
+	Length: 0.655908142521935
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[524] Biological Weapons Convention
+	Type: Axe
+	Length: 0.800429041870138
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[525] Chemical weapon designation
+	Type: Axe
+	Length: 0.533821804697542
+	Attack: 7
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1000
+[526] Brucella suis
+	Type: Club
+	Length: 1.09150161970942
+	Attack: 35
+	Defense: 7
+	Wield type: OneHanded
+	Price: 4200
+[527] Glanders
+	Type: Sword
+	Length: 0.679618102581994
+	Attack: 17
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1900
+[528] Melioidosis
+	Type: Sword
+	Length: 0.883492112571137
+	Attack: 44
+	Defense: 8
+	Wield type: OneHanded
+	Price: 5200
+[529] Plague (disease)
+	Type: Sword
+	Length: 1.23610741097299
+	Attack: 114
+	Defense: 26
+	Wield type: OneHanded
+	Price: 14000
+[530] Tularemia
+	Type: Axe
+	Length: 0.75923623785341
+	Attack: 51
+	Defense: 4
+	Wield type: OneHanded
+	Price: 5500
+[531] Francisella tularensis
+	Type: Sword
+	Length: 0.770322162085363
+	Attack: 15
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1900
+[532] Psittacosis
+	Type: Sword
+	Length: 0.641563718971593
+	Attack: 16
+	Defense: 10
+	Wield type: OneHanded
+	Price: 2600
+[533] Q Fever
+	Type: Sword
+	Length: 0.905419017377039
+	Attack: 22
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2600
+[534] Coxiella burnetii
+	Type: Axe
+	Length: 0.519452047077684
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[535] Eastern equine encephalitis virus
+	Type: Dagger
+	Length: 0.291521235737727
+	Attack: 32
+	Defense: 5
+	Wield type: OneHanded
+	Price: 3700
+[536] Venezuelan Equine Encephalomyelitis virus
+	Type: Dagger
+	Length: 0.367389850722342
+	Attack: 20
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2600
+[537] Western equine encephalitis virus
+	Type: Dagger
+	Length: 0.494775651020359
+	Attack: 17
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1800
+[538] Rift Valley fever
+	Type: Dagger
+	Length: 0.748955399030333
+	Attack: 50
+	Defense: 13
+	Wield type: OneHanded
+	Price: 6300
+[539] Yellow fever
+	Type: Sword
+	Length: 1.26230006607356
+	Attack: 201
+	Defense: 13
+	Wield type: OneHanded
+	Price: 21400
+[540] Yellow fever virus
+	Type: Sword
+	Length: 1.30871733408827
+	Attack: 201
+	Defense: 13
+	Wield type: OneHanded
+	Price: 21400
+[541] Coccidiomycosis
+	Type: Sword
+	Length: 1.41290250439798
+	Attack: 58
+	Defense: 10
+	Wield type: OneHanded
+	Price: 6800
+[542] Ricin
+	Type: Club
+	Length: 1.05624696987506
+	Attack: 89
+	Defense: 15
+	Wield type: OneHanded
+	Price: 10400
+[543] Saxitoxin
+	Type: Axe
+	Length: 1.39702862473066
+	Attack: 31
+	Defense: 5
+	Wield type: OneHanded
+	Price: 3600
+[544] Chikungunya
+	Type: Sword
+	Length: 1.44875906498579
+	Attack: 75
+	Defense: 16
+	Wield type: OneHanded
+	Price: 9100
+[545] United Nations Office for Disarmament Affairs
+	Type: Dagger
+	Length: 0.415684793105202
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[546] Defense Threat Reduction Agency
+	Type: PoleWeapon
+	Length: 3.93941245038966
+	Attack: 23
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 2600
+[547] Venezuelan equine encephalitis virus
+	Type: Dagger
+	Length: 0.469190944437492
+	Attack: 20
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2600
+[548] Psychochemical weapon
+	Type: Dagger
+	Length: 0.4048325488832
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[549] National Counterproliferation Center
+	Type: Sword
+	Length: 0.668921249531638
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[550] Statement on Chemical and Biological Defense Policies and Programs
+	Type: PoleWeapon
+	Length: 3.23259456373406
+	Attack: 29
+	Defense: 10
+	Wield type: TwoHanded
+	Price: 3900
+[551] Biological Weapons Anti-Terrorism Act of 1989
+	Type: Sword
+	Length: 0.500005560461434
+	Attack: 22
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2600
+[552] Global Partnership Against the Spread of Weapons and Materials of Mass Destruction
+	Type: Dagger
+	Length: 0.620199565133173
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[553] United Nations Security Council Resolution 1540
+	Type: Ranged
+	Length: 12.5184810801961
+	Attack: 37
+	Defense: 10
+	Wield type: OneHanded
+	Price: 4700
+[554] Knuckle duster
+	Type: Dagger
+	Length: 0.301099936268805
+	Attack: 10
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1500
+[555] Akinakes
+	Type: Dagger
+	Length: 0.284424080063786
+	Attack: 11
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1200
+[556] Phosgene oxime
+	Type: Dagger
+	Length: 0.466507770920409
+	Attack: 12
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1300
+[557] Sarin
+	Type: Sword
+	Length: 1.12263329099986
+	Attack: 66
+	Defense: 6
+	Wield type: OneHanded
+	Price: 7200
+[558] Soman
+	Type: Sword
+	Length: 1.18633695002009
+	Attack: 40
+	Defense: 9
+	Wield type: OneHanded
+	Price: 4900
+[559] Hydrogen cyanide
+	Type: Sword
+	Length: 1.44763343220001
+	Attack: 57
+	Defense: 5
+	Wield type: OneHanded
+	Price: 6200
+[560] Chloropicrin
+	Type: Sword
+	Length: 1.10796656976825
+	Attack: 13
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1700
+[561] EA-3148
+	Type: Dagger
+	Length: 0.322105926844341
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[562] VR (nerve agent)
+	Type: Dagger
+	Length: 0.349767287075411
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[563] Novichok agent
+	Type: Axe
+	Length: 0.733681753852256
+	Attack: 41
+	Defense: 3
+	Wield type: OneHanded
+	Price: 4400
+[564] Nettle agent
+	Type: Dagger
+	Length: 0.409531542290715
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[565] 3-Quinuclidinyl benzilate
+	Type: Sword
+	Length: 1
+	Attack: 25
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3500
+[566] Kolokol-1
+	Type: Sword
+	Length: 0.65251599236043
+	Attack: 33
+	Defense: 5
+	Wield type: OneHanded
+	Price: 3800
+[567] Sleeping gas
+	Type: Sword
+	Length: 0.631129443240878
+	Attack: 7
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1000
+[568] Phenacyl chloride
+	Type: Sword
+	Length: 0.751126220101084
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[569] List of chemical warfare agents
+	Type: Axe
+	Length: 0.511154731740781
+	Attack: 28
+	Defense: 3
+	Wield type: OneHanded
+	Price: 3100
+[570] Albania and weapons of mass destruction
+	Type: Dagger
+	Length: 0.675958506844919
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[571] Algeria and weapons of mass destruction
+	Type: Dagger
+	Length: 0.395321673199219
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[572] Argentina and weapons of mass destruction
+	Type: Ranged
+	Length: 9.27310110035963
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[573] Australia and weapons of mass destruction
+	Type: Axe
+	Length: 1.43250081568607
+	Attack: 19
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2700
+[574] Bulgaria and weapons of mass destruction
+	Type: Ranged
+	Length: 10.2966734139699
+	Attack: 9
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1200
+[575] Egypt and weapons of mass destruction
+	Type: Ranged
+	Length: 9.94601716517751
+	Attack: 14
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1600
+[576] France and weapons of mass destruction
+	Type: Axe
+	Length: 1.24957800505198
+	Attack: 43
+	Defense: 5
+	Wield type: OneHanded
+	Price: 4800
+[577] Germany and weapons of mass destruction
+	Type: PoleWeapon
+	Length: 1.94790136904824
+	Attack: 22
+	Defense: 8
+	Wield type: TwoHanded
+	Price: 3000
+[578] Iran and weapons of mass destruction
+	Type: Ranged
+	Length: 13.5997723548672
+	Attack: 164
+	Defense: 26
+	Wield type: OneHanded
+	Price: 19000
+[579] Iraq and weapons of mass destruction
+	Type: Axe
+	Length: 1.20714907753614
+	Attack: 173
+	Defense: 34
+	Wield type: OneHanded
+	Price: 20700
+[580] Libya and weapons of mass destruction
+	Type: Ranged
+	Length: 14.6905945565973
+	Attack: 32
+	Defense: 5
+	Wield type: OneHanded
+	Price: 3700
+[581] Mexico and weapons of mass destruction
+	Type: Dagger
+	Length: 0.360342160617161
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[582] North Korea and weapons of mass destruction
+	Type: Ranged
+	Length: 11.5311973083444
+	Attack: 79
+	Defense: 20
+	Wield type: OneHanded
+	Price: 9900
+[583] Philippines and weapons of mass destruction
+	Type: Dagger
+	Length: 0.434976502407797
+	Attack: 7
+	Defense: 1
+	Wield type: OneHanded
+	Price: 800
+[584] Poland and weapons of mass destruction
+	Type: Ranged
+	Length: 7.14570863039499
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[585] Romania and weapons of mass destruction
+	Type: Ranged
+	Length: 11.585758897283
+	Attack: 10
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1500
+[586] Russia and weapons of mass destruction
+	Type: Ranged
+	Length: 12.5923067739198
+	Attack: 26
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2900
+[587] South Korean nuclear research programs
+	Type: Ranged
+	Length: 10.2992303181902
+	Attack: 17
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1800
+[588] Sweden and weapons of mass destruction
+	Type: Dagger
+	Length: 0.444857805475992
+	Attack: 4
+	Defense: 4
+	Wield type: OneHanded
+	Price: 800
+[589] Switzerland and weapons of mass destruction
+	Type: PoleWeapon
+	Length: 3.90965743451829
+	Attack: 10
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1200
+[590] Syria and weapons of mass destruction
+	Type: Axe
+	Length: 1.45060388695011
+	Attack: 47
+	Defense: 11
+	Wield type: OneHanded
+	Price: 5800
+[591] Taiwan and weapons of mass destruction
+	Type: Ranged
+	Length: 6.50026929634636
+	Attack: 11
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1400
+[592] Nuclear weapons and Ukraine
+	Type: Ranged
+	Length: 11.1214641044482
+	Attack: 22
+	Defense: 12
+	Wield type: OneHanded
+	Price: 3400
+[593] Nuclear proliferation
+	Type: Ranged
+	Length: 13.0321435202063
+	Attack: 204
+	Defense: 44
+	Wield type: OneHanded
+	Price: 24800
+[594] Organisation for the Prohibition of Chemical Weapons
+	Type: Sword
+	Length: 0.550277365860658
+	Attack: 16
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1900
+[595] Tear gas
+	Type: Ranged
+	Length: 11.5433349630532
+	Attack: 35
+	Defense: 14
+	Wield type: OneHanded
+	Price: 4900
+[596] Chemical Weapons Convention
+	Type: Sword
+	Length: 1.16450548039959
+	Attack: 16
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1900
+[597] OPCW
+	Type: Sword
+	Length: 0.713367930247154
+	Attack: 16
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1900
+[598] Iraqi chemical weapons program
+	Type: Ranged
+	Length: 13.2256521602281
+	Attack: 36
+	Defense: 3
+	Wield type: OneHanded
+	Price: 3900
+[599] Halabja chemical attack
+	Type: Sword
+	Length: 1.07796554014923
+	Attack: 72
+	Defense: 9
+	Wield type: OneHanded
+	Price: 8100
+[600] Organization for the Prohibition of Chemical Weapons
+	Type: Sword
+	Length: 0.796243072625363
+	Attack: 16
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1900
+[601] Syria chemical weapons program
+	Type: Ranged
+	Length: 12.0024014296953
+	Attack: 49
+	Defense: 8
+	Wield type: OneHanded
+	Price: 5700
+[602] Pine Bluff Arsenal
+	Type: Sword
+	Length: 1.06201126336214
+	Attack: 20
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2700
+[603] Umatilla Depot Activity
+	Type: Dagger
+	Length: 0.713613578567101
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[604] Newport Army Ammunition Plant
+	Type: Dagger
+	Length: 0.728874042038281
+	Attack: 18
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2200
+[605] Blue Grass Army Depot
+	Type: Dagger
+	Length: 0.439138951566601
+	Attack: 12
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1500
+[606] Dimethyl methylphosphonate
+	Type: Dagger
+	Length: 0.325110705604363
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[607] North Korea and weapons of mass destruction#Biological and chemical weapons
+	Type: Ranged
+	Length: 10.6750474477536
+	Attack: 79
+	Defense: 20
+	Wield type: OneHanded
+	Price: 9900
+[608] Destruction of chemical weapons
+	Type: Ranged
+	Length: 12.1073178886936
+	Attack: 60
+	Defense: 2
+	Wield type: OneHanded
+	Price: 6200
+[609] San Jose Project
+	Type: Dagger
+	Length: 0.378623195750929
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[610] United States Army Chemical Materials Agency
+	Type: Sword
+	Length: 0.852621867485634
+	Attack: 31
+	Defense: 1
+	Wield type: OneHanded
+	Price: 3200
+[611] Binary chemical weapon
+	Type: Ranged
+	Length: 14.1954770377816
+	Attack: 18
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2200
+[612] 1990 Chemical Weapons Accord
+	Type: Dagger
+	Length: 0.286519153177049
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[613] Nuclear Threat Initiative
+	Type: Sword
+	Length: 1.41548421346372
+	Attack: 17
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1700
+[614] Adamsite
+	Type: Dagger
+	Length: 0.608638747180178
+	Attack: 16
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1600
+[615] Diphenylchlorarsine
+	Type: Dagger
+	Length: 0.363474555482843
+	Attack: 14
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1400
+[616] Diphenylcyanoarsine
+	Type: Dagger
+	Length: 0.477423419466905
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[617] Program Executive Office, Assembled Chemical Weapons Alternatives
+	Type: Sword
+	Length: 0.774258848873088
+	Attack: 26
+	Defense: 5
+	Wield type: OneHanded
+	Price: 3100
+[618] Anniston Chemical Activity
+	Type: Sword
+	Length: 1.48496371111132
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[619] Deseret Chemical Depot
+	Type: Ranged
+	Length: 10.7510586412396
+	Attack: 9
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1100
+[620] Edgewood Chemical Activity
+	Type: Dagger
+	Length: 0.529916203594728
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[621] Newport Chemical Depot
+	Type: Dagger
+	Length: 0.561296480270706
+	Attack: 18
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2200
+[622] Pine Bluff Chemical Activity
+	Type: Dagger
+	Length: 0.620706916144447
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[623] Pueblo Chemical Depot
+	Type: Siege
+	Length: 72.3953537630827
+	Attack: 11
+	Defense: 8
+	Wield type: OneHanded
+	Price: 1900
+[624] Tooele Chemical Agent Disposal Facility
+	Type: Axe
+	Length: 1.06055084479067
+	Attack: 13
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1400
+[625] Umatilla Chemical Depot
+	Type: Dagger
+	Length: 0.600945042027601
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[626] Operation Davy Jones%27 Locker
+	Type: Sword
+	Length: 0.678496935953617
+	Attack: 1
+	Defense: 4
+	Wield type: OneHanded
+	Price: 500
+[627] QL (chemical)
+	Type: Dagger
+	Length: 0.312047879007667
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[628] M110 155mm Cartridge
+	Type: Ranged
+	Length: 8.82223449825413
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[629] M125 bomblet
+	Type: Ranged
+	Length: 8.75333845091673
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[630] M138 bomblet
+	Type: Dagger
+	Length: 0.66504811805908
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[631] M139 bomblet
+	Type: Ranged
+	Length: 10.3621007480482
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[632] M23 chemical mine
+	Type: Dagger
+	Length: 0.413367620163303
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[633] M34 cluster bomb
+	Type: Dagger
+	Length: 0.391005847668744
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[634] M43 BZ cluster bomb
+	Type: Dagger
+	Length: 0.45545300245539
+	Attack: 4
+	Defense: 6
+	Wield type: OneHanded
+	Price: 1000
+[635] M44 generator cluster
+	Type: Dagger
+	Length: 0.384409656345104
+	Attack: 1
+	Defense: 3
+	Wield type: OneHanded
+	Price: 400
+[636] M687
+	Type: Siege
+	Length: 57.9336528936092
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[637] XM736 8-inch projectile
+	Type: Ranged
+	Length: 7.25892573700236
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[638] MC-1 bomb
+	Type: Dagger
+	Length: 0.456102460369515
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[639] M47 bomb
+	Type: Axe
+	Length: 0.836292959906297
+	Attack: 8
+	Defense: 0
+	Wield type: OneHanded
+	Price: 800
+[640] Portal:Weapons of mass destruction
+	Type: Axe
+	Length: 0.508354478519575
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[641] Danda
+	Type: Dagger
+	Length: 0.345862966308306
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[642] Grosse messer
+	Type: Dagger
+	Length: 0.65959562147483
+	Attack: 6
+	Defense: 3
+	Wield type: OneHanded
+	Price: 900
+[643] Blade geometry#Taper
+	Type: Sword
+	Length: 0.632469219450126
+	Attack: 9
+	Defense: 8
+	Wield type: OneHanded
+	Price: 1700
+[644] Pike pole
+	Type: PoleWeapon
+	Length: 2.85179183206139
+	Attack: 5
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 600
+[645] Staff of office
+	Type: PoleWeapon
+	Length: 1.59316854951585
+	Attack: 7
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 800
+[646] Sword of Justice
+	Type: Sword
+	Length: 0.576988623280539
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[647] Medieval dagger
+	Type: Dagger
+	Length: 0.348331098490549
+	Attack: 45
+	Defense: 10
+	Wield type: OneHanded
+	Price: 5500
+[648] 1796 Heavy Cavalry Sword
+	Type: Sword
+	Length: 0.585936857660272
+	Attack: 22
+	Defense: 17
+	Wield type: OneHanded
+	Price: 3900
+[649] Cane
+	Type: Sword
+	Length: 0.823328254894972
+	Attack: 14
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1500
+[650] Car bomb
+	Type: PoleWeapon
+	Length: 2.09845997211452
+	Attack: 37
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 4400
+[651] 1897 Pattern British Infantry Officer%27s Sword
+	Type: Sword
+	Length: 0.890246631526503
+	Attack: 13
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1400
+[652] Andrew Ferrara
+	Type: Sword
+	Length: 0.72840421913583
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[653] Heavy Cavalry Sabre
+	Type: Sword
+	Length: 0.747459351898851
+	Attack: 22
+	Defense: 17
+	Wield type: OneHanded
+	Price: 3900
+[654] Conventional Weapons
+	Type: Dagger
+	Length: 0.259066566479889
+	Attack: 7
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1000
+[655] Aerial bomb
+	Type: Siege
+	Length: 33.6825056041975
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[656] Convention on Certain Conventional Weapons
+	Type: Dagger
+	Length: 0.479413155340316
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[657] Poleaxe
+	Type: Axe
+	Length: 0.614104188100483
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[658] Bec de Corbin
+	Type: PoleWeapon
+	Length: 2.6000289370306
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[659] Bohemian earspoon
+	Type: PoleWeapon
+	Length: 2.26757400006409
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[660] Corseque
+	Type: PoleWeapon
+	Length: 2.09934290153875
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[661] Half pike
+	Type: PoleWeapon
+	Length: 3.3528
+	Attack: 3
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 500
+[662] Scottish polearms
+	Type: Axe
+	Length: 0.526125653193391
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[663] Sovnya
+	Type: PoleWeapon
+	Length: 2.05584388484985
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[664] Viking halberd
+	Type: Axe
+	Length: 0.9
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[665] Woldo
+	Type: PoleWeapon
+	Length: 2.50619383133305
+	Attack: 1
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 400
+[666] Parry (fencing)
+	Type: Sword
+	Length: 0.927150155383698
+	Attack: 16
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1600
+[667] Deer horn knives
+	Type: Dagger
+	Length: 0.408205896340406
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[668] Kaumodaki
+	Type: Bow
+	Length: 11.8562492690311
+	Attack: 20
+	Defense: 6
+	Wield type: TwoHanded
+	Price: 2600
+[669] Siege hook
+	Type: Siege
+	Length: 39.5513305508305
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[670] Michelangelo (Teenage Mutant Ninja Turtles)
+	Type: Axe
+	Length: 1.00457820855294
+	Attack: 66
+	Defense: 20
+	Wield type: OneHanded
+	Price: 8600
+[671] Hypersonic glide vehicle
+	Type: Ranged
+	Length: 14.4845818167015
+	Attack: 23
+	Defense: 2
+	Wield type: OneHanded
+	Price: 2500
+[672] Bofors HPM Blackout
+	Type: Dagger
+	Length: 0.284138026546751
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[673] Pulsed energy projectile
+	Type: Ranged
+	Length: 7.28954265233574
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[674] Personnel halting and stimulation response rifle
+	Type: Dagger
+	Length: 0.431026964067028
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[675] Protocol on Blinding Laser Weapons
+	Type: Dagger
+	Length: 0.324335375602513
+	Attack: 12
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1200
+[676] Soviet laser pistol
+	Type: Dagger
+	Length: 0.283375692802191
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[677] Project Excalibur
+	Type: Ranged
+	Length: 6
+	Attack: 39
+	Defense: 5
+	Wield type: OneHanded
+	Price: 4400
+[678] Orbital weapon
+	Type: Ranged
+	Length: 8.68106474572842
+	Attack: 10
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1400
+[679] FIRESTRIKE
+	Type: Dagger
+	Length: 0.651700858795876
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[680] PHaSR
+	Type: Dagger
+	Length: 0.304472306419384
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[681] Weapon system
+	Type: Dagger
+	Length: 0.498654898953929
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[682] Wunderwaffe
+	Type: Dagger
+	Length: 0.26474733080936
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[683] Pure fusion weapon
+	Type: Dagger
+	Length: 0.562450730387331
+	Attack: 10
+	Defense: 6
+	Wield type: OneHanded
+	Price: 1600
+[684] Improvised explosive devices
+	Type: Siege
+	Length: 74.091736948626
+	Attack: 86
+	Defense: 21
+	Wield type: OneHanded
+	Price: 10700
+[685] Anti-personnel mine
+	Type: Ranged
+	Length: 10.3815890035506
+	Attack: 34
+	Defense: 12
+	Wield type: OneHanded
+	Price: 4600
+[686] Leiomano
+	Type: Club
+	Length: 0.558895194930441
+	Attack: 1
+	Defense: 2
+	Wield type: OneHanded
+	Price: 300
+[687] Gakgung
+	Type: Bow
+	Length: 23.5169437544034
+	Attack: 16
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 2000
+[688] Bean bag round
+	Type: Ranged
+	Length: 14.3984960459166
+	Attack: 12
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1500
+[689] Sharur (mythological weapon)
+	Type: Dagger
+	Length: 0.403902927834495
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[690] Grind
+	Type: Sword
+	Length: 0.579275888427755
+	Attack: 14
+	Defense: 12
+	Wield type: OneHanded
+	Price: 2600
+[691] Sgian Dubh
+	Type: Dagger
+	Length: 0.381939281188855
+	Attack: 20
+	Defense: 1
+	Wield type: OneHanded
+	Price: 2100
+[692] Bronze Age dagger
+	Type: Dagger
+	Length: 0.368627946413415
+	Attack: 45
+	Defense: 10
+	Wield type: OneHanded
+	Price: 5500
+[693] Knightly dagger
+	Type: Dagger
+	Length: 0.404996501004787
+	Attack: 45
+	Defense: 10
+	Wield type: OneHanded
+	Price: 5500
+[694] Jambiya
+	Type: Dagger
+	Length: 0.27228443488585
+	Attack: 16
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1800
+[695] Kard
+	Type: Dagger
+	Length: 0.41
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[696] Pesh kabz
+	Type: Dagger
+	Length: 0.429608130678352
+	Attack: 12
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1700
+[697] Yoroi toshi
+	Type: Sword
+	Length: 0.656346920717669
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[698] United States Marine Raider Stiletto
+	Type: Dagger
+	Length: 0.568255996363357
+	Attack: 14
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1900
+[699] Shoge
+	Type: Club
+	Length: 1.48222882532618
+	Attack: 5
+	Defense: 2
+	Wield type: OneHanded
+	Price: 700
+[700] Kusari-gama
+	Type: Club
+	Length: 0.506444637666663
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[701] Chigriki
+	Type: Club
+	Length: 0.983793299171977
+	Attack: 10
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1200
+[702] Manriki-gusari
+	Type: Club
+	Length: 0.75
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[703] Manriki
+	Type: Club
+	Length: 0.75
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[704] Jambiyah
+	Type: Dagger
+	Length: 0.352659532033214
+	Attack: 16
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1800
+[705] Military Communication of Feudal Japan
+	Type: Siege
+	Length: 31.7092742336491
+	Attack: 14
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1600
+[706] Hanbo
+	Type: PoleWeapon
+	Length: 2.81473115916119
+	Attack: 3
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 300
+[707] Canes
+	Type: Sword
+	Length: 0.785962012263929
+	Attack: 14
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1500
+[708] Millwall brick
+	Type: Club
+	Length: 0.692083988428155
+	Attack: 9
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1400
+[709] Chainlock
+	Type: Club
+	Length: 0.637478675990123
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[710] Stink bomb
+	Type: Ranged
+	Length: 7.5505220180147
+	Attack: 18
+	Defense: 10
+	Wield type: OneHanded
+	Price: 2800
+[711] CBU-55
+	Type: Dagger
+	Length: 0.735266196068966
+	Attack: 14
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1800
+[712] UN Convention on Conventional Weapons
+	Type: Dagger
+	Length: 0.264096351696223
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[713] Pollaxe (Polearm)
+	Type: Axe
+	Length: 0.579733467930804
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[714] Weapons of Mass Destruction (album)
+	Type: Dagger
+	Length: 0.340353983147235
+	Attack: 1
+	Defense: 4
+	Wield type: OneHanded
+	Price: 500
+[715] Radiological warfare
+	Type: Dagger
+	Length: 0.575013329193468
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[716] Butler Review
+	Type: Sword
+	Length: 0.870248394492198
+	Attack: 25
+	Defense: 11
+	Wield type: OneHanded
+	Price: 3600
+[717] Comprehensive Test Ban Treaty
+	Type: Dagger
+	Length: 0.424940848920932
+	Attack: 23
+	Defense: 7
+	Wield type: OneHanded
+	Price: 3000
+[718] Biological and Toxin Weapons Convention
+	Type: Axe
+	Length: 0.616794390192625
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[719] Nuclear weapons and the United States
+	Type: Ranged
+	Length: 13.3718165072481
+	Attack: 77
+	Defense: 16
+	Wield type: OneHanded
+	Price: 9300
+[720] Nuclear sharing
+	Type: Ranged
+	Length: 6.30956539246699
+	Attack: 21
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3100
+[721] Pressure cooker bomb
+	Type: Dagger
+	Length: 0.358973114103532
+	Attack: 11
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1600
+[722] Weapons of mass destruction in popular culture
+	Type: Ranged
+	Length: 14.8796675283833
+	Attack: 21
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2700
+[723] Iraq Intelligence Commission
+	Type: Sword
+	Length: 0.626386100019508
+	Attack: 7
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1100
+[724] The Bomb (film)
+	Type: Ranged
+	Length: 6.59550756057515
+	Attack: 10
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1400
+[725] Ethnic bioweapon
+	Type: Dagger
+	Length: 0.49365027539602
+	Attack: 10
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1000
+[726] New physical principles weapons
+	Type: Dagger
+	Length: 0.254302968505911
+	Attack: 14
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1800
+[727] Nuclear terrorism
+	Type: Sword
+	Length: 1.0135365750238
+	Attack: 94
+	Defense: 18
+	Wield type: OneHanded
+	Price: 11200
+[728] Space weapon#Orbital bombardment
+	Type: Ranged
+	Length: 5.27148048638901
+	Attack: 10
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1400
+[729] Weapons of Mass Destruction Commission
+	Type: Dagger
+	Length: 0.383661157863057
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[730] Conventional weapons
+	Type: Ranged
+	Length: 6.38465179660574
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[731] Flexible baton round
+	Type: Ranged
+	Length: 10.237071833218
+	Attack: 12
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1500
+[732] Beanbag round
+	Type: Ranged
+	Length: 13.6973800387687
+	Attack: 12
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1500
+[733] Stun grenade
+	Type: Sword
+	Length: 0.705707007416388
+	Attack: 10
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1100
+[734] Skunk (weapon)
+	Type: Ranged
+	Length: 5.12158758478313
+	Attack: 20
+	Defense: 5
+	Wield type: OneHanded
+	Price: 2500
+[735] Psychochemical weapons
+	Type: Dagger
+	Length: 0.292261280139099
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[736] 3-methylfentanyl
+	Type: Sword
+	Length: 0.861661836906179
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[737] Pulsed Energy Projectile
+	Type: Ranged
+	Length: 8.19608418419775
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[738] Bradford Non-Lethal Weapons Research Project
+	Type: Dagger
+	Length: 0.45181277438617
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[739] Gas pistol
+	Type: Dagger
+	Length: 0.681562156617438
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[740] LED Incapacitator
+	Type: Dagger
+	Length: 0.545625470949162
+	Attack: 24
+	Defense: 5
+	Wield type: OneHanded
+	Price: 2900
+[741] Net gun
+	Type: Sword
+	Length: 0.838939448510734
+	Attack: 11
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1800
+[742] Hunga Munga
+	Type: Ranged
+	Length: 7.89750750544365
+	Attack: 4
+	Defense: 1
+	Wield type: OneHanded
+	Price: 500
+[743] Shillelagh (weapon)
+	Type: Club
+	Length: 0.90068022436494
+	Attack: 7
+	Defense: 9
+	Wield type: OneHanded
+	Price: 1600
+[744] Club (weapon)#Knobkierie
+	Type: Club
+	Length: 0.803842993128972
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[745] Green Dragon Crescent Blade
+	Type: Sword
+	Length: 0.705314795582236
+	Attack: 6
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1000
+[746] Ballock knife
+	Type: Dagger
+	Length: 0.455828450599605
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[747] Suruchin
+	Type: Ranged
+	Length: 7.28072387738187
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[748] Trisula
+	Type: PoleWeapon
+	Length: 2.69570376639986
+	Attack: 5
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 500
+[749] Swiss Dagger
+	Type: Dagger
+	Length: 0.306925951995387
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[750] Parrying
+	Type: Sword
+	Length: 0.867007498334631
+	Attack: 16
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1600
+[751] Militarisation of space
+	Type: Ranged
+	Length: 14.6011130416771
+	Attack: 50
+	Defense: 15
+	Wield type: OneHanded
+	Price: 6500
+[752] Salyut 3#On-board gun
+	Type: Dagger
+	Length: 0.713887239789538
+	Attack: 20
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2800
+[753] Sun gun
+	Type: Sword
+	Length: 1.02203461063189
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[754] SALT II
+	Type: Ranged
+	Length: 10.2539038147097
+	Attack: 46
+	Defense: 9
+	Wield type: OneHanded
+	Price: 5500
+[755] Korean bow
+	Type: Bow
+	Length: 28.371315290393
+	Attack: 16
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 2000
+[756] Tallboy (bomb)
+	Type: Axe
+	Length: 1.49426207248786
+	Attack: 51
+	Defense: 17
+	Wield type: OneHanded
+	Price: 6800
+[757] Red mercury
+	Type: Axe
+	Length: 0.880058537647155
+	Attack: 55
+	Defense: 10
+	Wield type: OneHanded
+	Price: 6500
+[758] Chain weapons
+	Type: Club
+	Length: 0.824242543114462
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[759] Acoustic homing
+	Type: Dagger
+	Length: 0.359009256637194
+	Attack: 10
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1000
+[760] Asi (Sanskrit)
+	Type: Sword
+	Length: 0.625579547661161
+	Attack: 24
+	Defense: 1
+	Wield type: OneHanded
+	Price: 2500
+[761] Mordstreich
+	Type: Sword
+	Length: 0.924707144696595
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[762] Pop gun
+	Type: Ranged
+	Length: 7.58813963625028
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[763] Nerf
+	Type: Ranged
+	Length: 14.2476167270204
+	Attack: 23
+	Defense: 3
+	Wield type: OneHanded
+	Price: 2600
+[764] Johnny Seven OMA
+	Type: Ranged
+	Length: 9.99013496329549
+	Attack: 8
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1100
+[765] Spud gun (toy)
+	Type: Ranged
+	Length: 7.31345018479668
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[766] Tracer gun
+	Type: Dagger
+	Length: 0.550397194130531
+	Attack: 12
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1300
+[767] Club weapon
+	Type: Club
+	Length: 0.822485695976059
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[768] Impact weapon
+	Type: Club
+	Length: 0.567574709452491
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[769] Dane axe
+	Type: Axe
+	Length: 1.3696
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[770] Parashu
+	Type: Sword
+	Length: 1.09618540601627
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[771] Holographic weapon sight
+	Type: Axe
+	Length: 1
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[772] Stockholm International Peace Research Institute
+	Type: PoleWeapon
+	Length: 2.36509446444227
+	Attack: 10
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 1400
+[773] SIPRI
+	Type: PoleWeapon
+	Length: 1.65191992821727
+	Attack: 10
+	Defense: 4
+	Wield type: TwoHanded
+	Price: 1400
+[774] START treaty (2010)
+	Type: Ranged
+	Length: 14.4625614906953
+	Attack: 20
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3000
+[775] Non-proliferation
+	Type: Ranged
+	Length: 12.5367007695775
+	Attack: 204
+	Defense: 44
+	Wield type: OneHanded
+	Price: 24800
+[776] Danish axe
+	Type: Axe
+	Length: 1.3696
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[777] Pyeonjeon
+	Type: Bow
+	Length: 24.9186141765297
+	Attack: 6
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 900
+[778] Brandt Mle CM60A1
+	Type: Siege
+	Length: 64.6008545367983
+	Attack: 20
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2800
+[779] Hyeopdo
+	Type: PoleWeapon
+	Length: 2.7845864329881
+	Attack: 2
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 300
+[780] Korean knife
+	Type: Dagger
+	Length: 0.293643264236694
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[781] Model 1832 foot artillery sword
+	Type: Sword
+	Length: 1.32254310689054
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[782] Pata (weapon)
+	Type: Sword
+	Length: 0.954235960475279
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[783] Brass knuckles#Legality and distribution
+	Type: Dagger
+	Length: 0.287821824796415
+	Attack: 10
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1500
+[784] Nunchaku#Legality
+	Type: Club
+	Length: 0.780533549273635
+	Attack: 52
+	Defense: 11
+	Wield type: OneHanded
+	Price: 6300
+[785] Pepper spray#Legality
+	Type: Axe
+	Length: 1.11496865289051
+	Attack: 55
+	Defense: 22
+	Wield type: OneHanded
+	Price: 7700
+[786] Blowgun#Legality
+	Type: Ranged
+	Length: 9.13296144648127
+	Attack: 49
+	Defense: 5
+	Wield type: OneHanded
+	Price: 5400
+[787] Sparth
+	Type: Axe
+	Length: 1.40031481739148
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[788] Scottish polearms#Jeddart staff
+	Type: Axe
+	Length: 0.678353875492864
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[789] Tessen
+	Type: Sword
+	Length: 0.595932703742726
+	Attack: 13
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2000
+[790] Iron fan
+	Type: Sword
+	Length: 0.847703393244978
+	Attack: 13
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2000
+[791] Tantojutsu
+	Type: Dagger
+	Length: 0.340158312972709
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[792] Weaponry task force
+	Type: Axe
+	Length: 1.09359299395866
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[793] Solution Unsatisfactory
+	Type: Club
+	Length: 1.09026048779034
+	Attack: 18
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2500
+[794] Doomsday device
+	Type: Dagger
+	Length: 0.490801649629512
+	Attack: 5
+	Defense: 4
+	Wield type: OneHanded
+	Price: 900
+[795] Second Variety
+	Type: Ranged
+	Length: 9.95365875305313
+	Attack: 15
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1800
+[796] Neuralyzer
+	Type: Bow
+	Length: 10
+	Attack: 29
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 3200
+[797] Pole weapon#Sparth axe
+	Type: Axe
+	Length: 1.18560703549795
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[798] Pole weapon#Long axes
+	Type: Axe
+	Length: 1.23754476557371
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[799] Farasa
+	Type: Sword
+	Length: 1.16654379720173
+	Attack: 5
+	Defense: 0
+	Wield type: OneHanded
+	Price: 500
+[800] Keteriya
+	Type: Axe
+	Length: 0.580125484885706
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[801] Pole-arm
+	Type: Axe
+	Length: 1.36498907784232
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[802] Polybolos
+	Type: Ranged
+	Length: 9.01666728035392
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[803] Signature weapon
+	Type: Bow
+	Length: 11.4499594929861
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[804] Sauterelle
+	Type: Ranged
+	Length: 6.04520407321174
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[805] Leach Trench Catapult
+	Type: Ranged
+	Length: 5.89171205223152
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[806] F1 grenade (France)
+	Type: Siege
+	Length: 33.0248839142848
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[807] Stokes mortar
+	Type: Siege
+	Length: 65.1191258058507
+	Attack: 7
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1400
+[808] Sling shot
+	Type: Ranged
+	Length: 8.25487082510016
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[809] Sk%C3%A5ne Lockbow
+	Type: Bow
+	Length: 16.3273504452442
+	Attack: 4
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 500
+[810] Foam Weapon
+	Type: Sword
+	Length: 0.513855155098185
+	Attack: 59
+	Defense: 7
+	Wield type: OneHanded
+	Price: 6600
+[811] Pernach
+	Type: Dagger
+	Length: 0.337052201310663
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[812] Shestopyor
+	Type: Dagger
+	Length: 0.388051950902702
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[813] Lochaber Axe
+	Type: Axe
+	Length: 1.23337329073501
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[814] War-scythe
+	Type: PoleWeapon
+	Length: 2.97111086057085
+	Attack: 30
+	Defense: 7
+	Wield type: TwoHanded
+	Price: 3700
+[815] Petrary
+	Type: Ranged
+	Length: 9.06975544014469
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[816] Deepeeka
+	Type: Sword
+	Length: 0.557515430756619
+	Attack: 21
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2900
+[817] Scythe sword
+	Type: Sword
+	Length: 0.870006582639183
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[818] Half-pike
+	Type: PoleWeapon
+	Length: 3.3528
+	Attack: 3
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 500
+[819] Kontos (weapon)
+	Type: PoleWeapon
+	Length: 4
+	Attack: 5
+	Defense: 3
+	Wield type: TwoHanded
+	Price: 800
+[820] Zhan ma dao
+	Type: Sword
+	Length: 0.642374863681558
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[821] Bohemian ear spoon
+	Type: PoleWeapon
+	Length: 2.53513799516258
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[822] Carroballista
+	Type: Siege
+	Length: 40.486924590304
+	Attack: 4
+	Defense: 3
+	Wield type: OneHanded
+	Price: 700
+[823] Onager (weapon)
+	Type: Siege
+	Length: 42.275890948845
+	Attack: 13
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1500
+[824] Weapons employed in the Slovak%E2%80%93Hungarian War
+	Type: Siege
+	Length: 26.2223427655279
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[825] Daisho
+	Type: Sword
+	Length: 0.820659620836684
+	Attack: 3
+	Defense: 1
+	Wield type: OneHanded
+	Price: 400
+[826] Yoroi t%C5%8Dshi
+	Type: Sword
+	Length: 0.635412314736942
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[827] Bo (weapon)
+	Type: PoleWeapon
+	Length: 2.25927298504825
+	Attack: 16
+	Defense: 5
+	Wield type: TwoHanded
+	Price: 2100
+[828] Tamb%C5%8D
+	Type: PoleWeapon
+	Length: 1.92650721009192
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[829] Tsuba in the Collection of Wolverhampton Art Gallery
+	Type: Sword
+	Length: 0.973981715493827
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[830] FN M1900
+	Type: Sword
+	Length: 0.505924918225931
+	Attack: 9
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1000
+[831] Astra Model 900
+	Type: Dagger
+	Length: 0.653380761110867
+	Attack: 2
+	Defense: 4
+	Wield type: OneHanded
+	Price: 600
+[832] Butterfly swords
+	Type: Sword
+	Length: 0.55527410076711
+	Attack: 12
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1600
+[833] Model 1840 Light Artillery Saber
+	Type: Siege
+	Length: 38.0324556785787
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[834] Model 1840 Cavalry Saber
+	Type: Sword
+	Length: 0.516125311384036
+	Attack: 5
+	Defense: 4
+	Wield type: OneHanded
+	Price: 900
+[835] Model 1860 Light Cavalry Saber
+	Type: Sword
+	Length: 0.579386911624757
+	Attack: 9
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1400
+[836] Model 1850 Army Staff %26 Field Officers%27 Sword
+	Type: PoleWeapon
+	Length: 2.13567481755078
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[837] Smith %26 Wesson Model 2
+	Type: Sword
+	Length: 1.06320639982038
+	Attack: 17
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1900
+[838] Kerrs Patent Revolver
+	Type: Dagger
+	Length: 0.342809900218998
+	Attack: 16
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1700
+[839] London Armoury Company
+	Type: PoleWeapon
+	Length: 2.2501353967237
+	Attack: 5
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 700
+[840] Williams cleaner bullet
+	Type: Ranged
+	Length: 8.49715553154105
+	Attack: 8
+	Defense: 1
+	Wield type: OneHanded
+	Price: 900
+[841] Ketchum Grenade
+	Type: Ranged
+	Length: 9.86472444369678
+	Attack: 11
+	Defense: 6
+	Wield type: OneHanded
+	Price: 1700
+[842] Williams Gun
+	Type: Siege
+	Length: 31.0017935493969
+	Attack: 4
+	Defense: 5
+	Wield type: OneHanded
+	Price: 900
+[843] Tube Alloys
+	Type: Club
+	Length: 1.3125861367735
+	Attack: 108
+	Defense: 42
+	Wield type: OneHanded
+	Price: 15000
+[844] Ya (arrow)#Yajiri or yanone .28war arrowhead.29
+	Type: Sword
+	Length: 0.587809062138111
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[845] Sword-like object
+	Type: Sword
+	Length: 0.583947295129275
+	Attack: 21
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2900
+[846] Kerambit
+	Type: Dagger
+	Length: 0.33224936019734
+	Attack: 15
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1600
+[847] Viking axe
+	Type: Axe
+	Length: 1.3696
+	Attack: 19
+	Defense: 7
+	Wield type: OneHanded
+	Price: 2600
+[848] Pole weapon#Winged spear
+	Type: Axe
+	Length: 1.4218283011214
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[849] Pole weapons
+	Type: Axe
+	Length: 1.07159949143957
+	Attack: 34
+	Defense: 9
+	Wield type: TwoHanded
+	Price: 4300
+[850] Holy Lance
+	Type: PoleWeapon
+	Length: 2.84083000563124
+	Attack: 42
+	Defense: 15
+	Wield type: TwoHanded
+	Price: 5700
+[851] Spear Luin
+	Type: PoleWeapon
+	Length: 1.80966812130514
+	Attack: 8
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 1000
+[852] Vel
+	Type: PoleWeapon
+	Length: 2.04985483132762
+	Attack: 3
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 300
+[853] G%C3%A1e Bulg
+	Type: PoleWeapon
+	Length: 2.77226360550721
+	Attack: 7
+	Defense: 1
+	Wield type: TwoHanded
+	Price: 800
+[854] Spear of Fuchai
+	Type: PoleWeapon
+	Length: 1.87607787799839
+	Attack: 1
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 100
+[855] Onavillu
+	Type: Bow
+	Length: 10.8646434363279
+	Attack: 4
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 400
+[856] Trench mortar
+	Type: Siege
+	Length: 69.6249383593094
+	Attack: 7
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1400
+[857] Bronze age sword
+	Type: Sword
+	Length: 0.85680530539565
+	Attack: 27
+	Defense: 2
+	Wield type: OneHanded
+	Price: 2900
+[858] 1908 and 1912 Pattern British Army Cavalry Swords
+	Type: Sword
+	Length: 0.734607665908806
+	Attack: 13
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1700
+[859] Sword replica
+	Type: Sword
+	Length: 0.840542222531765
+	Attack: 21
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2900
+[860] Chape
+	Type: Sword
+	Length: 0.581007107198707
+	Attack: 7
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1100
+[861] Broad sword
+	Type: Sword
+	Length: 0.937085659912362
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[862] List of sword manufacturers
+	Type: Sword
+	Length: 0.851429412305089
+	Attack: 21
+	Defense: 8
+	Wield type: OneHanded
+	Price: 2900
+[863] Barcha
+	Type: PoleWeapon
+	Length: 2.84100640557753
+	Attack: 2
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 200
+[864] Djerid (weapon)
+	Type: PoleWeapon
+	Length: 2.05954788837561
+	Attack: 5
+	Defense: 0
+	Wield type: TwoHanded
+	Price: 500
+[865] Toggling harpoon
+	Type: Ranged
+	Length: 7.96457597891082
+	Attack: 13
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1700
+[866] Ermac
+	Type: Sword
+	Length: 1.01872556028828
+	Attack: 168
+	Defense: 31
+	Wield type: OneHanded
+	Price: 19900
+[867] Ethyl bromoacetate
+	Type: Dagger
+	Length: 0.380546710747549
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[868] Chloroacetone
+	Type: Dagger
+	Length: 0.376603020763305
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[869] Xylyl bromide
+	Type: Siege
+	Length: 32.8989545618645
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[870] Hypo helmet
+	Type: Dagger
+	Length: 0.598358495090324
+	Attack: 5
+	Defense: 3
+	Wield type: OneHanded
+	Price: 800
+[871] PH helmet
+	Type: Dagger
+	Length: 0.510740842442373
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[872] Alleged British use of gas in Mesopotamia in 1920
+	Type: Dagger
+	Length: 0.463581943518287
+	Attack: 25
+	Defense: 5
+	Wield type: OneHanded
+	Price: 3000
+[873] Gassed (painting)
+	Type: Dagger
+	Length: 0.610677871788236
+	Attack: 28
+	Defense: 2
+	Wield type: OneHanded
+	Price: 3000
+[874] Livens gas projector
+	Type: Ranged
+	Length: 8.07470298515386
+	Attack: 23
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2700
+[875] Livens projector
+	Type: Ranged
+	Length: 5.20291029485078
+	Attack: 23
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2700
+[876] Lachrymatory agent
+	Type: Ranged
+	Length: 11.5590241931188
+	Attack: 35
+	Defense: 14
+	Wield type: OneHanded
+	Price: 4900
+[877] Bromoacetone
+	Type: Dagger
+	Length: 0.362505063699794
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[878] Blue Cross (chemical warfare)
+	Type: Siege
+	Length: 49.8576177516289
+	Attack: 7
+	Defense: 0
+	Wield type: OneHanded
+	Price: 700
+[879] M1879 Reichsrevolver
+	Type: Axe
+	Length: 0.75770875683879
+	Attack: 8
+	Defense: 0
+	Wield type: OneHanded
+	Price: 800
+[880] Kleinflammenwerfer
+	Type: Ranged
+	Length: 9.40499560181284
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[881] Browning M1900
+	Type: Dagger
+	Length: 0.328080450221002
+	Attack: 9
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1000
+[882] Dreyse M1907
+	Type: Sword
+	Length: 1.21358401361554
+	Attack: 27
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3700
+[883] Frommer Stop
+	Type: Dagger
+	Length: 0.590745751788256
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[884] M1870 Gasser
+	Type: Dagger
+	Length: 0.347612867410114
+	Attack: 11
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1300
+[885] Mannlicher M1901
+	Type: Axe
+	Length: 1.37075900839211
+	Attack: 23
+	Defense: 6
+	Wield type: OneHanded
+	Price: 2900
+[886] Rast %26 Gasser M1898
+	Type: Axe
+	Length: 0.822639974450059
+	Attack: 9
+	Defense: 0
+	Wield type: OneHanded
+	Price: 900
+[887] Roth%E2%80%93Steyr M1907
+	Type: Sword
+	Length: 0.882673653719329
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[888] Steyr M1912
+	Type: Dagger
+	Length: 0.464957404050491
+	Attack: 13
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1400
+[889] Steyr M1912#Doppelpistole M.12 doubled machinegun
+	Type: Dagger
+	Length: 0.35870847087759
+	Attack: 13
+	Defense: 1
+	Wield type: OneHanded
+	Price: 1400
+[890] Frommer Stop#Use as a double barrel machine gun
+	Type: Dagger
+	Length: 0.561813272098924
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[891] 8 cm Luftminenwerfer M 15
+	Type: Dagger
+	Length: 0.361290803114553
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[892] 9 cm Minenwerfer M 14
+	Type: Dagger
+	Length: 0.738641969970726
+	Attack: 7
+	Defense: 1
+	Wield type: OneHanded
+	Price: 800
+[893] 9 cm Minenwerfer M 17
+	Type: Dagger
+	Length: 0.611332088644305
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[894] 9.15 cm leichte Minenwerfer System Lanz
+	Type: Dagger
+	Length: 0.302306346619644
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[895] 14 cm Minenwerfer M 15
+	Type: Sword
+	Length: 1.31295947232887
+	Attack: 3
+	Defense: 2
+	Wield type: OneHanded
+	Price: 500
+[896] 15 cm Luftminenwerfer M 15 M. E.
+	Type: Dagger
+	Length: 0.499143070424508
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[897] Ruby pistol
+	Type: Dagger
+	Length: 0.519735154588583
+	Attack: 26
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3600
+[898] Smith %26 Wesson Triple Lock
+	Type: Dagger
+	Length: 0.466759954098035
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[899] Garland Trench Mortar
+	Type: Ranged
+	Length: 5.1612853888242
+	Attack: 12
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1400
+[900] Livens Projector
+	Type: Ranged
+	Length: 5.69083501849828
+	Attack: 23
+	Defense: 4
+	Wield type: OneHanded
+	Price: 2700
+[901] Stokes Mortar
+	Type: Siege
+	Length: 66.1426936817089
+	Attack: 7
+	Defense: 7
+	Wield type: OneHanded
+	Price: 1400
+[902] West Spring Gun
+	Type: Ranged
+	Length: 14.1129267886807
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[903] M1917 bayonet
+	Type: Dagger
+	Length: 0.381924604942056
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[904] Beholla
+	Type: Dagger
+	Length: 0.437441250629463
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[905] Beholla pistol
+	Type: Dagger
+	Length: 0.462730825162833
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[906] Beretta M1915
+	Type: Sword
+	Length: 1.17605882006514
+	Attack: 11
+	Defense: 0
+	Wield type: OneHanded
+	Price: 1100
+[907] Glisenti Model 1910#Attempted Redesign
+	Type: Dagger
+	Length: 0.4809646000997
+	Attack: 6
+	Defense: 2
+	Wield type: OneHanded
+	Price: 800
+[908] Type 30 bayonet
+	Type: Sword
+	Length: 1.11661756998702
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[909] 7.5mm 1882 Ordnance
+	Type: Dagger
+	Length: 0.302534131590526
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[910] Mk 1 grenade
+	Type: Ranged
+	Length: 8.87329752504514
+	Attack: 6
+	Defense: 1
+	Wield type: OneHanded
+	Price: 700
+[911] MK3 grenade
+	Type: Dagger
+	Length: 0.333744319893301
+	Attack: 9
+	Defense: 4
+	Wield type: OneHanded
+	Price: 1300
+[912] M1905 bayonet
+	Type: Sword
+	Length: 0.859652950363072
+	Attack: 5
+	Defense: 1
+	Wield type: OneHanded
+	Price: 600
+[913] Trench raiding club
+	Type: Club
+	Length: 0.976898909070016
+	Attack: 3
+	Defense: 0
+	Wield type: OneHanded
+	Price: 300
+[914] Mammoth spear thrower
+	Type: PoleWeapon
+	Length: 2.70012798705144
+	Attack: 7
+	Defense: 2
+	Wield type: TwoHanded
+	Price: 900
+[915] Scottish broadsword
+	Type: Sword
+	Length: 0.924846206756703
+	Attack: 29
+	Defense: 10
+	Wield type: OneHanded
+	Price: 3900
+[916] Lachrymator
+	Type: Ranged
+	Length: 12.2350164629682
+	Attack: 35
+	Defense: 14
+	Wield type: OneHanded
+	Price: 4900
+[917] Barung
+	Type: Sword
+	Length: 0.669937908728578
+	Attack: 9
+	Defense: 3
+	Wield type: OneHanded
+	Price: 1200
+[918] Laminated steel blade
+	Type: Sword
+	Length: 0.751776400372282
+	Attack: 28
+	Defense: 13
+	Wield type: OneHanded
+	Price: 4100
+[919] Sword of justice
+	Type: Sword
+	Length: 0.815756954399756
+	Attack: 4
+	Defense: 0
+	Wield type: OneHanded
+	Price: 400
+[920] Terminus Est
+	Type: Sword
+	Length: 0.973817623441023
+	Attack: 10
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1200
+[921] %C4%8CZ vz. 27
+	Type: Dagger
+	Length: 0.318025953284477
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[922] F%C3%89G 37M Pistol
+	Type: Dagger
+	Length: 0.665589306697058
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[923] Sauer 38H
+	Type: Dagger
+	Length: 0.267894549885716
+	Attack: 24
+	Defense: 2
+	Wield type: OneHanded
+	Price: 2600
+[924] Volkspistole
+	Type: Dagger
+	Length: 0.267176273519721
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[925] Sturmpistole
+	Type: Dagger
+	Length: 0.73706769197577
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[926] Einstossflammenwerfer 46
+	Type: Ranged
+	Length: 10.4419774494329
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[927] Canon de 105 court mle 1934 Schneider
+	Type: Dagger
+	Length: 0.602249854873982
+	Attack: 2
+	Defense: 1
+	Wield type: OneHanded
+	Price: 300
+[928] Canon de 105 court mle 1935 B
+	Type: Dagger
+	Length: 0.308371525168592
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[929] Canon de 105 L mle 1936 Schneider
+	Type: Dagger
+	Length: 0.497255413093257
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[930] Mortier de 280 mod%C3%A8le 1914 Schneider
+	Type: Siege
+	Length: 51.1002444318031
+	Attack: 9
+	Defense: 2
+	Wield type: OneHanded
+	Price: 1100
+[931] Mod%C3%A8le 1939 (mine)
+	Type: Dagger
+	Length: 0.558216055067357
+	Attack: 1
+	Defense: 1
+	Wield type: OneHanded
+	Price: 200
+[932] 31
+	Type: Dagger
+	Length: 0.645745109601759
+	Attack: 1
+	Defense: 0
+	Wield type: OneHanded
+	Price: 100
+[933] Beretta Px4 Storm
+	Type: Dagger
+	Length: 0.740511908075079
+	Attack: 24
+	Defense: 8
+	Wield type: OneHanded
+	Price: 3200
+[934] Demi-culverin
+	Type: Siege
+	Length: 59.4312627494481
+	Attack: 2
+	Defense: 0
+	Wield type: OneHanded
+	Price: 200
+[935] Architonnerre
+	Type: Ranged
+	Length: 6.17645686547107
+	Attack: 10
+	Defense: 5
+	Wield type: OneHanded
+	Price: 1500
+[936] RARDEN
+	Type: Dagger
+	Length: 0.372434110786968
+	Attack: 2
+	Defense: 2
+	Wield type: OneHanded
+	Price: 400
+[937] Small arm
+	Type: Ranged
+	Length: 14.4973480373143
+	Attack: 5
+	Defense: 4
+	Wield type: OneHanded
+	Price: 900
