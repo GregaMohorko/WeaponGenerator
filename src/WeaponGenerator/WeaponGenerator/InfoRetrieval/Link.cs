@@ -16,7 +16,7 @@ namespace WeaponGenerator.InfoRetrieval
 		/// <summary>
 		/// We used a list of stopwords to filter out any potentially ambiguous weapons.
 		/// </summary>
-		private static readonly string[] STOPWORDS = { "People", "people", "Compan", "compan", "Practices", "practices", "List", "list", "Preparation", "preparation", "Armour", "armour", "Disambiguation", "defence", "sport", "Steelmaking", "Robots", "formations", "Muskets", "guns", "Guns", "Magic", "magic", "Political", "Naval", "insignia", "Rifle", "rifle", "Missile", "missile", "Rocket", "rocket", "Aircraft", "aircraft", "Nuclear", "nuclear", "Bomb", "bomb" };
+		private static readonly string[] STOPWORDS = { "People", "people", "Compan", "compan", "Practices", "practices", "List", "list", "Preparation", "preparation", "Armour", "armour", "Disambiguation", "defence", "sport", "Steelmaking", "Robots", "formations", "Muskets", "guns", "Guns", "Magic", "magic", "Political", "Naval", "insignia", "Rifle", "rifle", "Missile", "missile", "Rocket", "rocket", "Aircraft", "aircraft", "Nuclear", "nuclear", "Bomb", "bomb", "virus", "Virus", "fever", "Fever", "chemical", "Chemical", "biological", "Biological" };
 
 		/// <summary>
 		/// Links that are discarded are set aside so that if by some chance they are encountered again later on in the runtime, they do not need to be checked again.
