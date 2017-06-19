@@ -16,6 +16,10 @@ Running the program can be done by executing the `WeaponGenerator.exe` file in *
 
 Note that running the program from zero can be quite time consuming (~1h), depending mostly on the speed of the internet connection.
 
-## License
+## Author and License
+
+Grega Mohorko ([www.mohorko.info](http://www.mohorko.info))
+
+Copyright (c) 2017 Grega Mohorko
 
 [MIT License](./LICENSE)
