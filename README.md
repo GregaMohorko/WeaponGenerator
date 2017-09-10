@@ -18,7 +18,7 @@ Note that running the program from zero can be quite time consuming (~1h), depen
 
 ## Author and License
 
-Grega Mohorko ([www.mohorko.info](http://www.mohorko.info))
+Grega Mohorko ([www.mohorko.info](https://www.mohorko.info))
 
 Copyright (c) 2017 Grega Mohorko
 
